@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T21:22:14.040050+00:00",
+  "generated_at": "2026-06-25T21:19:54.148685+00:00",
   "clients": [
     {
       "name": "CCCVideoClient",
@@ -86,7 +86,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/44/35/467383544/467383544-1-208.mp4?e=ig8euxZM2rNcNbhg7bdVhwdlhzNjhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&uipk=5&os=akam&trid=257386ee2424467787935590ebb1c19h&deadline=1782256970&nbs=1&oi=887751013&gen=playurlv3&og=cos&platform=html5&upsig=1f3f2193119289d8213efd72f9516f28&uparams=e,mid,uipk,os,trid,deadline,nbs,oi,gen,og,platform&hdnts=exp=1782256970~hmac=8b686c61f58b5bdf963f45d293a9e75044ba3a3e72820bf93f2610849d11258b&bvc=vod&nettype=0&bw=2609829&lrs=0&build=0&dl=0&f=h_0_0&agrr=1&buvid=&orderid=0,1",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/44/35/467383544/467383544-1-208.mp4?e=ig8euxZM2rNcNbhg7bdVhwdlhzNjhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&oi=1256951313&nbs=1&trid=e0a34775a2aa4e57ad4130a83363c94h&mid=0&gen=playurlv3&os=cosovbv&uipk=5&deadline=1782429626&platform=html5&og=cos&upsig=4ee81c87b1e3e0afc8f8f31a197c319e&uparams=e,oi,nbs,trid,mid,gen,os,uipk,deadline,platform,og&bvc=vod&nettype=0&bw=2609829&lrs=0&buvid=&build=0&dl=0&f=h_0_0&agrr=1&orderid=0,1",
             "title": "“我就是热爱105℃的女同学！”",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/“我就是热爱105℃的女同学！”.mp4",
             "ext": "mp4",
@@ -118,7 +118,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/49/79/31205297949/31205297949-1-192.mp4?e=ig8euxZM2rNcNbR1nWdVhwdlhWRHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&og=hw&oi=887751013&trid=3b6b71e7edcb469993c9dbda2cfc655h&os=cosovbv&uipk=5&deadline=1782256988&nbs=1&platform=html5&mid=0&gen=playurlv3&upsig=fc6c82a8676c9f4464daeddc3b574b3d&uparams=e,og,oi,trid,os,uipk,deadline,nbs,platform,mid,gen&bvc=vod&nettype=0&bw=952718&lrs=0&f=h_0_0&agrr=1&buvid=&build=0&dl=0&orderid=0,1",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/49/79/31205297949/31205297949-1-192.mp4?e=ig8euxZM2rNcNbR1nWdVhwdlhWRHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&trid=3bacecb4654f44d08e5f6c73c9effe5h&mid=0&uipk=5&oi=1256951313&og=hw&nbs=1&deadline=1782429645&gen=playurlv3&os=cosovbv&upsig=2e583ec415c31a67c51235ec4c470b12&uparams=e,platform,trid,mid,uipk,oi,og,nbs,deadline,gen,os&bvc=vod&nettype=0&bw=952718&lrs=0&agrr=1&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1",
             "title": "美女合集4",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/美女合集4.mp4",
             "ext": "mp4",
@@ -150,7 +150,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/89/45/14694589/14694589-1-48.mp4?e=ig8euxZM2rNcNbRBnWdVhwdlhWUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&uipk=5&trid=a69b831e7e964969be80d3a3a309817h&oi=887751013&mid=0&deadline=1782257002&og=cos&nbs=1&gen=playurlv3&os=cosovbv&upsig=87dc64b4a9e6b8e2e9e9295e093308ab&uparams=e,platform,uipk,trid,oi,mid,deadline,og,nbs,gen,os&bvc=vod&nettype=0&bw=1277100&lrs=0&buvid=&build=0&dl=0&f=h_0_0&agrr=1&orderid=0,1",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/89/45/14694589/14694589-1-48.mp4?e=ig8euxZM2rNcNbRBnWdVhwdlhWUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&oi=1256951313&trid=99f08985575e4b3ab55813c8258073fh&nbs=1&deadline=1782429661&gen=playurlv3&os=cosovbv&og=cos&uipk=5&platform=html5&mid=0&upsig=c9d7828652f28b209d7bea4ec237cc7e&uparams=e,oi,trid,nbs,deadline,gen,os,og,uipk,platform,mid&bvc=vod&nettype=0&bw=1277100&lrs=0&dl=0&f=h_0_0&agrr=1&buvid=&build=0&orderid=0,1",
             "title": "阿滴英文｜英文歌分享#6 Closer",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/阿滴英文｜英文歌分享#6 Closer.mp4",
             "ext": "mp4",
@@ -182,7 +182,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/69/76/191557669/191557669-1-192.mp4?e=ig8euxZM2rNcNbNMhwdVhwdlhbKVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&trid=8cb80a316e854217b9403b04e3c496fh&uipk=5&gen=playurlv3&deadline=1782257020&nbs=1&oi=887751013&os=akam&og=hw&platform=html5&upsig=862b177d646caf5b4e49f69ab7f34440&uparams=e,mid,trid,uipk,gen,deadline,nbs,oi,os,og,platform&hdnts=exp=1782257020~hmac=4f1359f06d25749cc5039a7bda22eb0faead84479d54250c651aeb3677cc53c2&bvc=vod&nettype=0&bw=1932060&lrs=0&dl=0&f=h_0_0&agrr=1&buvid=&build=0&orderid=0,1",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/69/76/191557669/191557669-1-192.mp4?e=ig8euxZM2rNcNbNMhwdVhwdlhbKVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&nbs=1&uipk=5&oi=1256951313&platform=html5&deadline=1782429679&trid=6404c27c14bc4159af9830968a7b3fch&gen=playurlv3&os=cosovbv&og=hw&upsig=751cb61c94c4b32239e809e99b233603&uparams=e,mid,nbs,uipk,oi,platform,deadline,trid,gen,os,og&bvc=vod&nettype=0&bw=1932060&lrs=0&buvid=&build=0&dl=0&f=h_0_0&agrr=1&orderid=0,1",
             "title": "ep1-Staple Stable战场原+羽川",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/ep1-Staple Stable战场原+羽川.mp4",
             "ext": "mp4",
@@ -214,7 +214,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/89/45/14694589/14694589-1-48.mp4?e=ig8euxZM2rNcNbRBnWdVhwdlhWUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&trid=9d9d1ff5e3854d3abc48ca9de1a9006h&deadline=1782257035&gen=playurlv3&og=cos&nbs=1&uipk=5&platform=html5&mid=0&oi=887751013&os=cosovbv&upsig=3cc3f3942137e5a867af97fd8aa784b4&uparams=e,trid,deadline,gen,og,nbs,uipk,platform,mid,oi,os&bvc=vod&nettype=0&bw=1277100&lrs=0&f=h_0_0&agrr=1&buvid=&build=0&dl=0&orderid=0,1",
+            "download_url": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/89/45/14694589/14694589-1-48.mp4?e=ig8euxZM2rNcNbRBnWdVhwdlhWUHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&deadline=1782429694&trid=367ec80601b1499e8e38b184a912d49h&og=cos&oi=1256951313&uipk=5&platform=html5&nbs=1&gen=playurlv3&os=akam&upsig=1f14ed22f9c6a51a050c5fcabed940a5&uparams=e,mid,deadline,trid,og,oi,uipk,platform,nbs,gen,os&hdnts=exp=1782429694~hmac=330aea7815a1ebb397d2e0f932dd729eec95d53c546525ddc59aff28de74b03c&bvc=vod&nettype=0&bw=1277100&lrs=0&agrr=1&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1",
             "title": "阿滴英文｜英文歌分享#6 Closer",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/阿滴英文｜英文歌分享#6 Closer.mp4",
             "ext": "mp4",
@@ -246,7 +246,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/58/23/31214142358/31214142358-1-100047.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&platform=pc&deadline=1782257049&oi=887751013&gen=playurlv3&os=cosovbv&og=cos&nbs=1&trid=71397cbca95c4413a9b299c50e6a778p&mid=0&upsig=60ce8dbd16f71adb90afd62115b64157&uparams=e,uipk,platform,deadline,oi,gen,os,og,nbs,trid,mid&bvc=vod&nettype=0&bw=253470&lrs=0&allo_id=&agrr=1&buvid=&build=0&dl=0&f=p_0_0&qn_dyeid=7d7f4286c50a1054009708d36a3af979&orderid=0,2",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/58/23/31214142358/31214142358-1-100047.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=0&gen=playurlv3&os=cosovbv&oi=1256951313&trid=3b17be6cfab74772bb87bb7034b3a6bp&og=cos&uipk=5&deadline=1782429712&nbs=1&platform=pc&upsig=665b95534e62543c5f5b986f5ddaac36&uparams=e,mid,gen,os,oi,trid,og,uipk,deadline,nbs,platform&bvc=vod&nettype=0&bw=253470&lrs=0&buvid=&build=0&dl=0&f=p_0_0&allo_id=&qn_dyeid=98bc5cc551dfd9b9002a865c6a3d9bf0&agrr=1&orderid=0,2",
             "title": "《时光代理人 第三季》PV 引爆变革的起点",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/《时光代理人 第三季》PV 引爆变革的起点.mp4",
             "ext": "mp4",
@@ -262,7 +262,7 @@
               "sniffer": "urllib.parse",
               "ok": true
             },
-            "audio_download_url": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/58/23/31214142358/31214142358-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=0&gen=playurlv3&nbs=1&uipk=5&platform=pc&os=akam&og=hw&deadline=1782257049&oi=887751013&trid=71397cbca95c4413a9b299c50e6a778p&upsig=e01cf0a94c46e2efe4dc93939107ff7b&uparams=e,mid,gen,nbs,uipk,platform,os,og,deadline,oi,trid&hdnts=exp=1782257049~hmac=b54b34fc774cdf8b7a74a7d073b77920d3dde8d74afcfba7cda8d383bc763f18&bvc=vod&nettype=0&bw=179274&lrs=0&buvid=&build=0&dl=0&f=p_0_0&qn_dyeid=7d7f4286c50a1054009708d36a3af979&allo_id=&agrr=1&orderid=0,2",
+            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/58/23/31214142358/31214142358-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&gen=playurlv3&os=cosovbv&og=hw&mid=0&oi=1256951313&nbs=1&platform=pc&trid=3b17be6cfab74772bb87bb7034b3a6bp&uipk=5&deadline=1782429712&upsig=2dbfd9689ae6ba68cc165bac1e6e4f0e&uparams=e,gen,os,og,mid,oi,nbs,platform,trid,uipk,deadline&bvc=vod&nettype=0&bw=179274&lrs=0&agrr=1&buvid=&build=0&dl=0&f=p_0_0&allo_id=&qn_dyeid=98bc5cc551dfd9b9002a865c6a3d9bf0&orderid=0,2",
             "guess_audio_ext_result": {
               "ext": "m4s",
               "sniffer": "urllib.parse",
@@ -282,7 +282,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/37/91/1281679137/1281679137-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&os=cosovbv&og=ali&deadline=1782257065&gen=playurlv3&uipk=5&trid=fd1982548ebe4abb9b955a1e036b4a7h&mid=0&nbs=1&platform=html5&oi=887751013&upsig=49a527491cf06746a8acc277bdee99cb&uparams=e,os,og,deadline,gen,uipk,trid,mid,nbs,platform,oi&bvc=vod&nettype=0&bw=727476&lrs=0&buvid=&build=0&dl=0&f=h_0_0&agrr=1&orderid=0,1",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/37/91/1281679137/1281679137-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&oi=1256951313&platform=html5&trid=1cfc802932294926aec6e871574126bh&gen=playurlv3&os=cosovbv&og=ali&mid=0&deadline=1782429729&nbs=1&uipk=5&upsig=5af8563b11f14fa25ebb3744ab6336e3&uparams=e,oi,platform,trid,gen,os,og,mid,deadline,nbs,uipk&bvc=vod&nettype=0&bw=727476&lrs=0&dl=0&f=h_0_0&agrr=1&buvid=&build=0&orderid=0,1",
             "title": "【崩坏3生日会】七年回忆，化作温暖的团子大家族",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/【崩坏3生日会】七年回忆，化作温暖的团子大家族.mp4",
             "ext": "mp4",
@@ -314,7 +314,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/64/03/974030364/974030364-1-208.mp4?e=ig8euxZM2rNcNbNghWdVhwdlhbN1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&gen=playurlv3&os=akam&oi=887751013&nbs=1&uipk=5&platform=html5&mid=0&og=hw&deadline=1782257078&trid=344358e1a25f491c94cc747765df038h&upsig=e4b2c4839e7cfbc8252b0155986e737a&uparams=e,gen,os,oi,nbs,uipk,platform,mid,og,deadline,trid&hdnts=exp=1782257078~hmac=db031182424c4eb1afe20764c54b0d53781bf164e4e45d86f96283882663ea45&bvc=vod&nettype=0&bw=1772505&lrs=0&dl=0&f=h_0_0&agrr=1&buvid=&build=0&orderid=0,1",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/64/03/974030364/974030364-1-208.mp4?e=ig8euxZM2rNcNbNghWdVhwdlhbN1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&uipk=5&platform=html5&trid=5ff65e3114a84e508aa16dccb22ab8ch&deadline=1782429743&nbs=1&os=cosovbv&oi=1256951313&gen=playurlv3&og=hw&upsig=fc565667e26274c2c730562e7a38ceb3&uparams=e,mid,uipk,platform,trid,deadline,nbs,os,oi,gen,og&bvc=vod&nettype=0&bw=1772505&lrs=0&agrr=1&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1",
             "title": "【崩坏3新春剧场】为特别的你送上祝福！",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/【崩坏3新春剧场】为特别的你送上祝福！.mp4",
             "ext": "mp4",
@@ -346,7 +346,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/26/58/275826/275826_da8-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&oi=887751013&trid=78638968f4dd412b94558b296ebad2fp&deadline=1782257094&platform=pc&gen=playurlv3&os=cosovbv&og=hw&mid=0&nbs=1&upsig=a0721405a91e3c9856c1df7b066b61b0&uparams=e,uipk,oi,trid,deadline,platform,gen,os,og,mid,nbs&bvc=vod&nettype=0&bw=641446&lrs=0&allo_id=&agrr=1&buvid=&build=0&dl=0&f=p_0_0&qn_dyeid=9e7a4c6930d65ff1007081d16a3af9a6&orderid=0,2",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/26/58/275826/275826_da8-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&nbs=1&gen=playurlv3&os=cosovbv&trid=968f510fb3354421ab7daa589d6510bp&uipk=5&mid=0&deadline=1782429758&platform=pc&og=hw&oi=1256951313&upsig=80348df73cec2d4c166451cdde6b29ea&uparams=e,nbs,gen,os,trid,uipk,mid,deadline,platform,og,oi&bvc=vod&nettype=0&bw=641446&lrs=0&qn_dyeid=2d24a91c8d3a7a8500a3c1e66a3d9c1e&agrr=1&buvid=&build=0&dl=0&f=p_0_0&allo_id=&orderid=0,2",
             "title": "《悠久之翼2》第12话 forever／ef",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/《悠久之翼2》第12话 forever／ef.mp4",
             "ext": "mp4",
@@ -362,7 +362,7 @@
               "sniffer": "urllib.parse",
               "ok": true
             },
-            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/26/58/275826/275826_da8-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&deadline=1782257094&platform=pc&nbs=1&gen=playurlv3&og=cos&oi=887751013&trid=78638968f4dd412b94558b296ebad2fp&mid=0&os=cosovbv&upsig=8bc865c843a1151384821a0e09a5f7e9&uparams=e,uipk,deadline,platform,nbs,gen,og,oi,trid,mid,os&bvc=vod&nettype=0&bw=129688&lrs=0&dl=0&f=p_0_0&qn_dyeid=9e7a4c6930d65ff1007081d16a3af9a6&allo_id=&agrr=1&buvid=&build=0&orderid=0,2",
+            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/26/58/275826/275826_da8-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&oi=1256951313&mid=0&deadline=1782429758&platform=pc&os=cosovbv&og=cos&nbs=1&uipk=5&gen=playurlv3&trid=968f510fb3354421ab7daa589d6510bp&upsig=fc2ce0b456a6bfa9a816a363a6af57a9&uparams=e,oi,mid,deadline,platform,os,og,nbs,uipk,gen,trid&bvc=vod&nettype=0&bw=129688&lrs=0&allo_id=&qn_dyeid=2d24a91c8d3a7a8500a3c1e66a3d9c1e&agrr=1&buvid=&build=0&dl=0&f=p_0_0&orderid=0,2",
             "guess_audio_ext_result": {
               "ext": "m4s",
               "sniffer": "urllib.parse",
@@ -382,7 +382,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/41/01/246560141/246560141_da8-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=0&nbs=1&os=cosovbv&deadline=1782257111&uipk=5&platform=pc&oi=887751013&trid=aa774b5821a14c16a5c9703b2aa2f53p&gen=playurlv3&og=cos&upsig=e079f64a00bbc6d20d18c5dda9d93bc4&uparams=e,mid,nbs,os,deadline,uipk,platform,oi,trid,gen,og&bvc=vod&nettype=0&bw=361217&lrs=0&agrr=1&buvid=&build=0&dl=0&f=p_0_0&allo_id=&qn_dyeid=3dfcb11f1c9f5a6b0026b3796a3af9b7&orderid=0,2",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/41/01/246560141/246560141_da8-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&platform=pc&mid=0&deadline=1782429773&oi=1256951313&trid=8c5c86d84c084e7daa54c1b9ba89c44p&nbs=1&gen=playurlv3&os=cosovbv&og=cos&upsig=6b94fc71526fc71467a97f69d8f9be45&uparams=e,uipk,platform,mid,deadline,oi,trid,nbs,gen,os,og&bvc=vod&nettype=0&bw=361217&lrs=0&buvid=&build=0&dl=0&f=p_0_0&qn_dyeid=0fe53a6480a549f80070588c6a3d9c2d&allo_id=&agrr=1&orderid=0,2",
             "title": "《鬼灭之刃》#1 炭治郎篇",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/《鬼灭之刃》#1 炭治郎篇.mp4",
             "ext": "mp4",
@@ -398,7 +398,7 @@
               "sniffer": "urllib.parse",
               "ok": true
             },
-            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/41/01/246560141/246560141_da8-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=0&deadline=1782257111&platform=pc&oi=887751013&trid=aa774b5821a14c16a5c9703b2aa2f53p&nbs=1&gen=playurlv3&uipk=5&os=cosovbv&og=hw&upsig=846f902c5f552ed70078d0354de93685&uparams=e,mid,deadline,platform,oi,trid,nbs,gen,uipk,os,og&bvc=vod&nettype=0&bw=323185&lrs=0&dl=0&f=p_0_0&allo_id=&qn_dyeid=3dfcb11f1c9f5a6b0026b3796a3af9b7&agrr=1&buvid=&build=0&orderid=0,2",
+            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/41/01/246560141/246560141_da8-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=0&oi=1256951313&trid=8c5c86d84c084e7daa54c1b9ba89c44p&gen=playurlv3&os=cosovbv&deadline=1782429773&nbs=1&uipk=5&og=hw&platform=pc&upsig=210c5cd14c2dd7cd209b42d241476033&uparams=e,mid,oi,trid,gen,os,deadline,nbs,uipk,og,platform&bvc=vod&nettype=0&bw=323185&lrs=0&dl=0&f=p_0_0&qn_dyeid=0fe53a6480a549f80070588c6a3d9c2d&allo_id=&agrr=1&buvid=&build=0&orderid=0,2",
             "guess_audio_ext_result": {
               "ext": "m4s",
               "sniffer": "urllib.parse",
@@ -418,7 +418,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/41/01/246560141/246560141_da8-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&gen=playurlv3&os=cosovbv&og=cos&uipk=5&platform=pc&trid=f7917230ec1c45cc9f5bd959a1581f1p&oi=887751013&deadline=1782257134&nbs=1&mid=0&upsig=bcbe010807be6d06148e29e5e9841682&uparams=e,gen,os,og,uipk,platform,trid,oi,deadline,nbs,mid&bvc=vod&nettype=0&bw=361217&lrs=0&dl=0&f=p_0_0&allo_id=&qn_dyeid=d3944347602182e700df3d3c6a3af9ce&agrr=1&buvid=&build=0&orderid=0,2",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/41/01/246560141/246560141_da8-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&og=cos&mid=0&deadline=1782429799&oi=1256951313&trid=b50c1afa328f4e56a4568ef0e74218fp&gen=playurlv3&uipk=5&nbs=1&platform=pc&os=cosovbv&upsig=4490b69d65d1b51bba3512278bb50a92&uparams=e,og,mid,deadline,oi,trid,gen,uipk,nbs,platform,os&bvc=vod&nettype=0&bw=361217&lrs=0&qn_dyeid=6f0e640561cb796400affb696a3d9c47&allo_id=&agrr=1&buvid=&build=0&dl=0&f=p_0_0&orderid=0,2",
             "title": "炭治郎篇",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/炭治郎篇.mp4",
             "ext": "mp4",
@@ -434,7 +434,7 @@
               "sniffer": "urllib.parse",
               "ok": true
             },
-            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/41/01/246560141/246560141_da8-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=0&uipk=5&platform=pc&os=cosovbv&oi=887751013&deadline=1782257134&nbs=1&trid=f7917230ec1c45cc9f5bd959a1581f1p&gen=playurlv3&og=hw&upsig=de263605faff809da10e7f4dd22791e0&uparams=e,mid,uipk,platform,os,oi,deadline,nbs,trid,gen,og&bvc=vod&nettype=0&bw=323185&lrs=0&dl=0&f=p_0_0&allo_id=&qn_dyeid=d3944347602182e700df3d3c6a3af9ce&agrr=1&buvid=&build=0&orderid=0,2",
+            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/41/01/246560141/246560141_da8-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&nbs=1&trid=b50c1afa328f4e56a4568ef0e74218fp&mid=0&deadline=1782429799&os=cosovbv&og=hw&uipk=5&platform=pc&gen=playurlv3&oi=1256951313&upsig=5fcc54715aaa9f1fe16f90241bf98347&uparams=e,nbs,trid,mid,deadline,os,og,uipk,platform,gen,oi&bvc=vod&nettype=0&bw=323185&lrs=0&f=p_0_0&qn_dyeid=6f0e640561cb796400affb696a3d9c47&allo_id=&agrr=1&buvid=&build=0&dl=0&orderid=0,2",
             "guess_audio_ext_result": {
               "ext": "m4s",
               "sniffer": "urllib.parse",
@@ -454,7 +454,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "BilibiliVideoClient",
-            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/03/12/1277541203/1277541203_sr1-1-100035.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&oi=887751013&trid=8b4f59f8a4b5453181a65f88668c48du&mid=0&os=cosovbv&og=hw&nbs=1&uipk=5&deadline=1782257149&platform=pc&gen=playurlv3&upsig=1d10f5cdc09b734ddc41acaad25334d7&uparams=e,oi,trid,mid,os,og,nbs,uipk,deadline,platform,gen&bvc=vod&nettype=0&bw=7795905&lrs=0&agrr=1&buvid=&build=0&dl=0&f=u_0_0&qn_dyeid=3ef32aacf467e3d40000ba3d6a3af9dd&allo_id=130759_0_1&orderid=0,2",
+            "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/03/12/1277541203/1277541203_sr1-1-100035.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=0&gen=playurlv3&og=hw&nbs=1&trid=6001d27d23ff4fa5ab791df923fc10cu&oi=1256951313&os=cosovbv&uipk=5&platform=pc&deadline=1782429817&upsig=13d47ec7c087476a5c389ddffecfb4e4&uparams=e,mid,gen,og,nbs,trid,oi,os,uipk,platform,deadline&bvc=vod&nettype=0&bw=7795905&lrs=0&allo_id=130759_0_1&agrr=1&buvid=&build=0&dl=0&f=u_0_0&qn_dyeid=73584416e5e9efaf00c7f0cb6a3d9c59&orderid=0,2",
             "title": "课程先导片",
             "file_path": "videodl_tmp_outputs/BilibiliVideoClient/课程先导片.mp4",
             "ext": "mp4",
@@ -470,7 +470,7 @@
               "sniffer": "urllib.parse",
               "ok": true
             },
-            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/03/12/1277541203/1277541203-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&os=cosovbv&og=ali&platform=pc&nbs=1&deadline=1782257149&oi=887751013&uipk=5&trid=8b4f59f8a4b5453181a65f88668c48du&mid=0&gen=playurlv3&upsig=06fd1fd3a34cd13adea0440be2be86f9&uparams=e,os,og,platform,nbs,deadline,oi,uipk,trid,mid,gen&bvc=vod&nettype=0&bw=126000&lrs=0&build=0&dl=0&f=u_0_0&qn_dyeid=3ef32aacf467e3d40000ba3d6a3af9dd&allo_id=130759_0_1&agrr=1&buvid=&orderid=0,2",
+            "audio_download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/03/12/1277541203/1277541203-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&nbs=1&trid=6001d27d23ff4fa5ab791df923fc10cu&oi=1256951313&gen=playurlv3&os=cosovbv&uipk=5&platform=pc&deadline=1782429817&mid=0&og=ali&upsig=e25000b262e6cb10baa40c0165e576f0&uparams=e,nbs,trid,oi,gen,os,uipk,platform,deadline,mid,og&bvc=vod&nettype=0&bw=126000&lrs=0&qn_dyeid=73584416e5e9efaf00c7f0cb6a3d9c59&allo_id=130759_0_1&agrr=1&buvid=&build=0&dl=0&f=u_0_0&orderid=0,2",
             "guess_audio_ext_result": {
               "ext": "m4s",
               "sniffer": "urllib.parse",
@@ -500,7 +500,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "AcFunVideoClient",
-            "download_url": "https://tx-safety-video.acfun.cn/mediacloud/acfun/acfun_video/hls/7f63d4e1499757f9-389f86b1b3416cbd2c98a43738b7c787-hls_1080p_h264_6m_1.m3u8?pkey=ABDYPqTmhDuU9QA1MIb-wQJvV3PhVECdT-V6HPiXe31uQdsX56KSLkmx1m-09ul6L2LbeU33WE7fE6NPJ7y5Gs4HNlMQRiqQNq2bJ7gAZnByz_1h1cybFQyzkgslRLhUnBE7SQrUTXU2M-lvWe4DqJHgq5oOl4NQeIb2VIk3RiMHqqYG7AitVZRqyx9GQ7HbuE8ArMpDzzOdwn1qwnbhJUxFQEuA5fM8XBdYSIadumRgfQ&safety_id=AALLFaIGVYHlwv9kX7ghB8Yz",
+            "download_url": "https://tx-safety-video.acfun.cn/mediacloud/acfun/acfun_video/hls/7f63d4e1499757f9-389f86b1b3416cbd2c98a43738b7c787-hls_1080p_h264_6m_1.m3u8?pkey=ABAMD726Mn4h2lTzSY_0CNy0wV7lIr8dD2C4PUs6l_G7UkQNSTJvqhgiOSl49Z4qcs6BQwfr0K6b8P_REwKJBqQmW6c2Bi2ocMMjqGNa21A0vR5TLKJTJpUfbLTCHGIErOaC40VfbRfvC6rCZilJNIPhX80O2P_oQ972oLSYRnBBYraGB_FIL7PSkmw3wxh-RMKEPoWfkpIMkXpF5r7UivvR2Ib6TC0PV8OgbgKV6xm3_A&safety_id=AAJiomAYRDxKhrAwoTVY5zKN",
             "title": "来喵一个哈哈",
             "file_path": "videodl_tmp_outputs/AcFunVideoClient/来喵一个哈哈.mp4",
             "ext": "mp4",
@@ -528,7 +528,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "AcFunVideoClient",
-            "download_url": "https://tx-safety-video.acfun.cn/mediacloud/acfun/acfun_video/5baefbdddd6d40a2-45727ca6e777958ca0777b8cb1ece225-hls_720p_hevc_1.m3u8?pkey=ABAdOIswoMNjxkLCr6HZy6u2V2IAzqQV_o9ScAC6in7O1t5ADLsQc4QQb1JPGi1yLgk6TfoAeIo3tBgYZlA1rtPd5kSBpqK4Ab5juKMsEzkZ2HEdNjNXipMvcSkXBob5isz-MyEc2P9sYV8WsthAU58ofdLKlW9gc4vwL4WjZ7wvUOrqxOiYxQA8l70JIrw9j9Chy1a4PtfOYfGD_fo97D2TfcTwUmjoqMknCiMtycwXvg&safety_id=AAJlJh0fK-20gS6xMYieoT8e",
+            "download_url": "https://tx-safety-video.acfun.cn/mediacloud/acfun/acfun_video/5baefbdddd6d40a2-45727ca6e777958ca0777b8cb1ece225-hls_720p_hevc_1.m3u8?pkey=ABCfP4P2Ok_JF2DjKGcppFoILzJ69tcVo_d0TR4tRk1Pvr-pChM-eae-NRuHm1Xo9vU1NNqIPajrJcC5oFnVOIifCPq2cG9SkcX8rvere78YS-xEcm0qkyHN8hxN-VGJP18KG2AVR8SeUvAuzZANR7ZULjtDkmhnlNs1QvNr5o6BGYeyKQbSlCiNzDpO4jzV-V4HPufvMrE8gEiQmIHVfOsyYibRuscf24PK4ABArN8idQ&safety_id=AAJS3BQt8lwqhONjt_p_w5Rz",
             "title": "《Something》修女之舞",
             "file_path": "videodl_tmp_outputs/AcFunVideoClient/《Something》修女之舞.mp4",
             "ext": "mp4",
@@ -556,7 +556,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "AcFunVideoClient",
-            "download_url": "https://tx-safety-video.acfun.cn/mediacloud/acfun/acfun_video/fe5e1723b0e3d721-2df0e0ed599c4fa243ec53e4edef5740-hls_4k_h264_1.m3u8?pkey=ABDzz8KQBAzhUKyWMknVANv3NAQnAKwuW6qd1CV1GIUVYQ4XO99rwC0BGbEI7yHXDjiZiblo_26ASNeOgak8ao_oSYq5k2iqYTfxA3jMls6b_Y_Vkb8MxbzEdfHq74RNDfpbSnV8X4fYC7g2Fr0nQCOns8EEVXbULIMD0IFpwczw408uWLtVvztzgil3WOQEJamNsBYsuQPQtX5LMUjiERffIi7M6A0LUoqbfDL6CC5VnQ&safety_id=AAIqGgRjTU1l63WRes-QjSES",
+            "download_url": "https://tx-safety-video.acfun.cn/mediacloud/acfun/acfun_video/fe5e1723b0e3d721-2df0e0ed599c4fa243ec53e4edef5740-hls_4k_h264_1.m3u8?pkey=ABBkwzQbZQ_LSPnpfTFh1YTqvl4pl8-OpNxr1d38i50lb6_pMSe01XpZ7zK0bWXRBjBEXx3-mnOSjCrFvlxJP7qLm1OI2YQepd2kQF2U0292Z7MuHlZlHxaLT_zTEYLjM0t60pSGY7uuEaVehLyQ_YNJjazA8pdMm_exp_UtI4eNx4L5fJ7pFtsQFgBhoVbyn6NslAlPs8S67_aiEacuZQiCraQyYI_R9h0Bzpb2WN7m_w&safety_id=AAJXgwRtbCYvB2FugYfn-jIN",
             "title": "是个麻烦鬼什么的。。真是对不起啦",
             "file_path": "videodl_tmp_outputs/AcFunVideoClient/是个麻烦鬼什么的。。真是对不起啦.mp4",
             "ext": "mp4",
@@ -622,7 +622,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "HaokanVideoClient",
-            "download_url": "https://vdept3.bdstatic.com/mda-rj4f11hidhzwfv6e/1080p/cae_h264/1759660796745857394/mda-rj4f11hidhzwfv6e.mp4?v_from_s=hkapp-haokan-hna&auth_key=1782260817-0-0-fd3aba14a62eff953dd630e87d873620&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=1617300877&vid=7224830823778858146&abtest=",
+            "download_url": "https://vdept3.bdstatic.com/mda-rj4f11hidhzwfv6e/1080p/cae_h264/1759660796745857394/mda-rj4f11hidhzwfv6e.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1782433482-0-0-36cccf2acf48d1266bd5de82e92aeba3&bcevod_channel=searchbox_feed&cr=3&cd=0&pd=1&pt=3&logid=1482328525&vid=7224830823778858146&abtest=232588_3",
             "title": "男人被妻子嫌弃只能忍气吞声",
             "file_path": "videodl_tmp_outputs/HaokanVideoClient/男人被妻子嫌弃只能忍气吞声.mp4",
             "ext": "mp4",
@@ -686,7 +686,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://playoss.yinyuetai.com/c06296bd1b5e71ef9e7a752281fd0102/snapshots/4c7948e0519b49d3858724fb7fc135da-00001.jpg?auth_key=1782250030-c2abbda8735b4d5ea6e5081bc63ac562-0-f8dcd8bbd3cc717a560d29ae9d906e6f&w=1920.0&h=1080.0"
+            "cover_url": "https://playoss.yinyuetai.com/c06296bd1b5e71ef9e7a752281fd0102/snapshots/4c7948e0519b49d3858724fb7fc135da-00001.jpg?auth_key=1782422694-a45821666e814821b13d66eddad659f3-0-29a08948c76555edc3564112e105c033&w=1920.0&h=1080.0"
           }
         }
       ]
@@ -706,7 +706,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "HuyaVideoClient",
-            "download_url": "http://hs-vod.cdn.huya.com/leaf/1048585/1199658336020/97137427/69393152_ca253841c56925dca6e0a7afec7cd5c6_264_1080_6_ai.mp4?bitrate=3753&client=106&definition=yuanhua&pid=1199608420906&scene=vod&vid=1084162990&hyvid=1084162990&hyauid=1199608420906&hyroomid=0&hyratio=3753&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA4NDE2Mjk5MA%3D%3D&",
+            "download_url": "http://al-vod.cdn.huya.com/leaf/1048585/1199658336020/97137427/69393152_ca253841c56925dca6e0a7afec7cd5c6_264_1080_6_ai.mp4?bitrate=3753&client=106&definition=yuanhua&pid=1199608420906&scene=vod&vid=1084162990&hyvid=1084162990&hyauid=1199608420906&hyroomid=0&hyratio=3753&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA4NDE2Mjk5MA%3D%3D&",
             "title": "【乔鹿鹿baby】后来，我活成了你的样子",
             "file_path": "videodl_tmp_outputs/HuyaVideoClient/【乔鹿鹿baby】后来，我活成了你的样子.mp4",
             "ext": "mp4",
@@ -738,7 +738,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "HuyaVideoClient",
-            "download_url": "http://al-vod.cdn.huya.com/leaf/1048585/1259593503571/96487491/68294761_7e56f077b098234189e6b3b1512b6ed2_264_720_6_ai.mp4?bitrate=687&client=108&definition=1300&pid=1259593503571&scene=vod&vid=1081888422&hyvid=1081888422&hyauid=1259593503571&hyroomid=0&hyratio=687&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA4MTg4ODQyMg%3D%3D&",
+            "download_url": "http://videotx-platform.cdn.huya.com/leaf/1048585/1259593503571/96487491/68294761_7e56f077b098234189e6b3b1512b6ed2_264_720_6_ai.mp4?bitrate=687&client=108&definition=1300&pid=1259593503571&scene=vod&vid=1081888422&hyvid=1081888422&hyauid=1259593503571&hyroomid=0&hyratio=687&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA4MTg4ODQyMg%3D%3D&",
             "title": "我也想要一盒扁豆馅的月饼",
             "file_path": "videodl_tmp_outputs/HuyaVideoClient/我也想要一盒扁豆馅的月饼.mp4",
             "ext": "mp4",
@@ -854,7 +854,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "PipigaoxiaoVideoClient",
-            "download_url": "http://video01.szsttkj.com/zyvd/03/8a/3507-df0a-11ea-8b93-00163e02c2d6",
+            "download_url": "http://video03.szsttkj.com/zyvd/03/8a/3507-df0a-11ea-8b93-00163e02c2d6",
             "title": "我来秀一下",
             "file_path": "videodl_tmp_outputs/PipigaoxiaoVideoClient/我来秀一下.mp4",
             "ext": "mp4",
@@ -886,9 +886,9 @@
           "err_msg": "",
           "parse_result": {
             "source": "PipigaoxiaoVideoClient",
-            "download_url": "http://video03.szsttkj.com/zyvqwz/264/ee/c5/ef2c-c014-11f0-8b1f-8a0bf9ae3ae1",
-            "title": "PipigaoxiaoVideoClient_null_2026-06-23-21-28-28",
-            "file_path": "videodl_tmp_outputs/PipigaoxiaoVideoClient/PipigaoxiaoVideoClient_null_2026-06-23-21-28-28.mp4",
+            "download_url": "http://video01.szsttkj.com/zyvqwz/264/ee/c5/ef2c-c014-11f0-8b1f-8a0bf9ae3ae1",
+            "title": "PipigaoxiaoVideoClient_null_2026-06-25-21-26-19",
+            "file_path": "videodl_tmp_outputs/PipigaoxiaoVideoClient/PipigaoxiaoVideoClient_null_2026-06-25-21-26-19.mp4",
             "ext": "mp4",
             "err_msg": "",
             "download_with_ffmpeg": false,
@@ -928,7 +928,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "PipixVideoClient",
-            "download_url": "https://v3-dy-o.zjcdn.com/896e5db9f30dbb8882010ede85c0ebc2/6a3b08a4/video/tos/cn/tos-cn-ve-0076/288df67472cd4dd19ebcd6b96e15f0fc/?a=1319&ch=0&cr=0&dr=6&cd=0%7C0%7C0%7C0&cv=1&br=1085&bt=1085&cs=0&ds=6&ft=tepik8hPooVD12Nk3M9n-Ux.LFTZyF_O51Y&mime_type=video_mp4&qs=0&rc=O2Q1NWlnaDk0OzUzZjdoPEBpM3ZpZW1uOm5ycDMzOWYzM0BfMWEzNV8tXjAxLTYvYy5jYSNxcTMuYy1fLzJfLS0uMTBzcw%3D%3D&btag=80000e00008000&cc=1f&dy_q=1782250124&l=202606240528442867D6276EEC64B4B378&req_cdn_type=",
+            "download_url": "https://v3-dy-o.zjcdn.com/01e742c20e5a0da44c964fdb749a873c/6a3dab25/video/tos/cn/tos-cn-ve-0076/288df67472cd4dd19ebcd6b96e15f0fc/?a=1319&ch=0&cr=0&dr=6&cd=0%7C0%7C0%7C0&cv=1&br=1085&bt=1085&cs=0&ds=6&ft=tepik8hPoTVD12NH7nWn-UxjKJTbVF_O51Y&mime_type=video_mp4&qs=0&rc=O2Q1NWlnaDk0OzUzZjdoPEBpM3ZpZW1uOm5ycDMzOWYzM0BfMWEzNV8tXjAxLTYvYy5jYSNxcTMuYy1fLzJfLS0uMTBzcw%3D%3D&btag=c0000e00008000&cc=1f&dy_q=1782422797&l=2026062605263714AB0E129F0E9A17EF51&req_cdn_type=",
             "title": "怎么办要不要叫维修师傅",
             "file_path": "videodl_tmp_outputs/PipixVideoClient/怎么办要不要叫维修师傅.mp4",
             "ext": "mp4",
@@ -950,7 +950,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p6-ppx-sign.byteimg.com/mosaic-legacy/2d79a0000d4aeadcb9602~tplv-f3gpralwbh-noop-v4:360:636:q60.webp?lk3s=1e780327&x-expires=1813786124&x-signature=H7MAKovW0RVBzXPVTS0jp5tTVRA%3D"
+            "cover_url": "https://p9-ppx-sign.byteimg.com/mosaic-legacy/2d79a0000d4aeadcb9602~tplv-f3gpralwbh-noop-v4:360:636:q60.webp?lk3s=1e780327&x-expires=1813958797&x-signature=XB5nR9hFdBO256sPXYzfjmrfBoc%3D"
           }
         },
         {
@@ -960,9 +960,9 @@
           "err_msg": "",
           "parse_result": {
             "source": "PipixVideoClient",
-            "download_url": "https://v3-dy-o.zjcdn.com/39af934f02faceba2115617bc9248293/6a3b08b7/video/tos/hxsy/tos-hxsy-ve-0076/220e0ed9b15778f4f6dbf112cb6609d229711669bc0b00003f9fa0b16b22/?a=1319&ch=0&cr=0&dr=6&cd=0%7C0%7C0%7C0&cv=1&br=676&bt=676&cs=0&ds=6&ft=tepik8hPooVD12N13M9n-Ux.LFTZyF_O51Y&mime_type=video_mp4&qs=0&rc=ZTQ8PGg8Zzg8Z2Q1NzpmNUBpamx4czh5bXFvdjMzOWYzM0AxMGBgNDBiX2ExXy4wYzZeYSNzaC9zNmllMHNfLS0xMTBzcw%3D%3D&btag=80000e00008000&cc=1f&dy_q=1782250141&l=20260624052901266402377A0F23AFC5C0&req_cdn_type=",
-            "title": "PipixVideoClient_null_2026-06-23-21-29-00",
-            "file_path": "videodl_tmp_outputs/PipixVideoClient/PipixVideoClient_null_2026-06-23-21-29-00.mp4",
+            "download_url": "https://v3-dy-o.zjcdn.com/e0827561b43d43b1cc96c9e432550766/6a3dab35/video/tos/hxsy/tos-hxsy-ve-0076/220e0ed9b15778f4f6dbf112cb6609d229711669bc0b00003f9fa0b16b22/?a=1319&ch=0&cr=0&dr=6&cd=0%7C0%7C0%7C0&cv=1&br=676&bt=676&cs=0&ds=6&ft=tepik8hPoTVD12N.7nWn-UxjKJTbVF_O51Y&mime_type=video_mp4&qs=0&rc=ZTQ8PGg8Zzg8Z2Q1NzpmNUBpamx4czh5bXFvdjMzOWYzM0AxMGBgNDBiX2ExXy4wYzZeYSNzaC9zNmllMHNfLS0xMTBzcw%3D%3D&btag=c0000e00008000&cc=1f&dy_q=1782422811&l=20260626052651771F89AF7F4F4A0DB3CF&req_cdn_type=",
+            "title": "PipixVideoClient_null_2026-06-25-21-26-50",
+            "file_path": "videodl_tmp_outputs/PipixVideoClient/PipixVideoClient_null_2026-06-25-21-26-50.mp4",
             "ext": "mp4",
             "err_msg": "",
             "download_with_ffmpeg": false,
@@ -982,7 +982,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p3-ppx-sign.byteimg.com/mosaic-legacy/33cbb000b8e8b645c3aba~tplv-f3gpralwbh-noop-v4:540:960:q60.webp?lk3s=1e780327&x-expires=1813786141&x-signature=V7erwjEnxL6jTDCzHeJes8YdNQE%3D"
+            "cover_url": "https://p3-ppx-sign.byteimg.com/mosaic-legacy/33cbb000b8e8b645c3aba~tplv-f3gpralwbh-noop-v4:540:960:q60.webp?lk3s=1e780327&x-expires=1813958811&x-signature=T2n8Bxt9IWFL17a7M2OgPF181Yc%3D"
           }
         }
       ]
@@ -1051,29 +1051,8 @@
           "name": "BaiduTiebaVideoClient",
           "test_url": "https://tieba.baidu.com/p/10253039554",
           "ok": false,
-          "err_msg": "BaiduTiebaVideoClient.parsefromurl >>> https://tieba.baidu.com/p/10253039554 (Error: 403 Client Error: Forbidden for url: https://tieba.baidu.com/p/10253039554)",
-          "parse_result": {
-            "source": "BaiduTiebaVideoClient",
-            "download_url": "",
-            "title": "",
-            "file_path": "",
-            "ext": "mp4",
-            "err_msg": "BaiduTiebaVideoClient.parsefromurl >>> https://tieba.baidu.com/p/10253039554 (Error: 403 Client Error: Forbidden for url: https://tieba.baidu.com/p/10253039554)",
-            "download_with_ffmpeg": false,
-            "download_with_aria2c": false,
-            "aria2c_settings": {},
-            "enable_nm3u8dlre": null,
-            "nm3u8dlre_settings": {},
-            "identifier": "",
-            "guess_video_ext_result": {},
-            "audio_download_url": "",
-            "guess_audio_ext_result": {},
-            "audio_ext": "m4a",
-            "audio_file_path": "",
-            "default_download_headers": null,
-            "default_download_cookies": null,
-            "cover_url": null
-          }
+          "err_msg": "KeyError('raw_data')",
+          "parse_result": {}
         }
       ]
     },
@@ -1186,7 +1165,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "OasisVideoClient",
-            "download_url": "http://oasis.video.weibocdn.com/2hYBUMLDlx07CMjdGQJy01041200meBi0E012.mp4?label=mp4_720p&template=720x1280.25.0&trans_finger=142044c002bd970f772f3f95e1c75bf3&ori=2&Expires=1782253833&ssig=yUrd4i8VFS&KID=unistore,video",
+            "download_url": "http://oasis.video.weibocdn.com/2hYBUMLDlx07CMjdGQJy01041200meBi0E012.mp4?label=mp4_720p&template=720x1280.25.0&trans_finger=142044c002bd970f772f3f95e1c75bf3&ori=2&Expires=1782426513&ssig=99mQTaylxW&KID=unistore,video",
             "title": "是你们喜欢的腿精女孩吗[挤眼]",
             "file_path": "videodl_tmp_outputs/OasisVideoClient/是你们喜欢的腿精女孩吗[挤眼].mp4",
             "ext": "mp4",
@@ -1218,7 +1197,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "OasisVideoClient",
-            "download_url": "http://oasis.video.weibocdn.com/fTRuYLV0lx07DpRwNMc001041200965y0E012.mp4?label=mp4_720p&template=720x1280.25.0&trans_finger=142044c002bd970f772f3f95e1c75bf3&ori=2&Expires=1782253849&ssig=VwjtTGroS3&KID=unistore,video",
+            "download_url": "http://oasis.video.weibocdn.com/fTRuYLV0lx07DpRwNMc001041200965y0E012.mp4?label=mp4_720p&template=720x1280.25.0&trans_finger=142044c002bd970f772f3f95e1c75bf3&ori=2&Expires=1782426525&ssig=8N4%2B92vz5g&KID=unistore,video",
             "title": "《稻香》-女版吉他弹唱",
             "file_path": "videodl_tmp_outputs/OasisVideoClient/《稻香》-女版吉他弹唱.mp4",
             "ext": "mp4",
@@ -1334,7 +1313,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "ZuiyouVideoClient",
-            "download_url": "http://web-v01.izuiyou.com/zyvqwz/264/97/2f/dda0-df20-11ec-8ac4-00163e143aa6?auth_key=1782253892-0-0-8cbf8a563adb3e79750d08001dcd509b",
+            "download_url": "http://web-v01.izuiyou.com/zyvqwz/264/97/2f/dda0-df20-11ec-8ac4-00163e143aa6?auth_key=1782426567-0-0-75e68e4343bc5f7132fb99d63511078d",
             "title": "这绝对是我今年看过最搞笑的视频了",
             "file_path": "videodl_tmp_outputs/ZuiyouVideoClient/这绝对是我今年看过最搞笑的视频了.mp4",
             "ext": "mp4",
@@ -1356,7 +1335,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "http://web-f01.izuiyou.com/img/frame/id/1953703872?auth_key=1782253892-0-0-21973bb75d559ff835697bb5b14c16bf&delogo=2&w=540"
+            "cover_url": "http://web-f01.izuiyou.com/img/frame/id/1953703872?auth_key=1782426567-0-0-3351797cd75fafafff7e568e09f543d9&delogo=2&w=540"
           }
         },
         {
@@ -1366,7 +1345,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "ZuiyouVideoClient",
-            "download_url": "http://web-v01.izuiyou.com/zyvqwz/264/d1/f4/28ca-c4a5-11f0-9c04-9614fd0e2995?auth_key=1782253909-0-0-c8b402cd26619a1c952a09942186b14f",
+            "download_url": "http://web-v01.izuiyou.com/zyvqwz/264/d1/f4/28ca-c4a5-11f0-9c04-9614fd0e2995?auth_key=1782426586-0-0-b64eda08a175106493e5a586c5115758",
             "title": "谁说供暖就一定要热的！（好像我小时候住的那个小区的物业）",
             "file_path": "videodl_tmp_outputs/ZuiyouVideoClient/谁说供暖就一定要热的！（好像我小时候住的那个小区的物业）.mp4",
             "ext": "mp4",
@@ -1388,7 +1367,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "http://web-f01.izuiyou.com/img/frame/id/2511111484?auth_key=1782253909-0-0-3b63e64066dbc05d35d933d8a8ee170e&delogo=0&w=540"
+            "cover_url": "http://web-f01.izuiyou.com/img/frame/id/2511111484?auth_key=1782426586-0-0-e7eeea19e3b965cde03a8d13a5d32e5b&delogo=0&w=540"
           }
         }
       ]
@@ -1509,14 +1488,14 @@
           "name": "RednoteVideoClient",
           "test_url": "http://xhslink.com/o/7DegL4I0Sjy",
           "ok": false,
-          "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_aJPVswos?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F6651cfab0000000014019950%3Fapp_platform%3Dandroid%26ignoreEngage%3Dtrue%26app_version%3D9.15.0%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBhBsDzyNay6TM4hX2dZFenIOxGHlCk7xoCNb4a0N_XW4%3D%26author_share%3D1%26shareRedId%3DODo7RkY1PUA2NzUyOTgwNjZEOTk1Nkc9%26apptime%3D1768215269%26share_id%3Db2c7d0b800f94c5e91086724670c94dd%26share_channel%3Dcopy_link%26appuid%3D649fc097000000000a0211a4%26xhsshare%3DCopyLink&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=5e08da49-1512-479c-a6d2-8335caa56bb0&verifyMsg= (Error: list index out of range)",
+          "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_utEGaUOH?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F6651cfab0000000014019950%3Fapp_platform%3Dandroid%26ignoreEngage%3Dtrue%26app_version%3D9.15.0%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBhBsDzyNay6TM4hX2dZFenIOxGHlCk7xoCNb4a0N_XW4%3D%26author_share%3D1%26shareRedId%3DODo7RkY1PUA2NzUyOTgwNjZEOTk1Nkc9%26apptime%3D1768215269%26share_id%3Db2c7d0b800f94c5e91086724670c94dd%26share_channel%3Dcopy_link%26appuid%3D649fc097000000000a0211a4%26xhsshare%3DCopyLink&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=c3f41dd1-6bf2-48c8-b144-2a67c3296107&verifyMsg= (Error: list index out of range)",
           "parse_result": {
             "source": "RednoteVideoClient",
             "download_url": "",
             "title": "",
             "file_path": "",
             "ext": "mp4",
-            "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_aJPVswos?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F6651cfab0000000014019950%3Fapp_platform%3Dandroid%26ignoreEngage%3Dtrue%26app_version%3D9.15.0%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBhBsDzyNay6TM4hX2dZFenIOxGHlCk7xoCNb4a0N_XW4%3D%26author_share%3D1%26shareRedId%3DODo7RkY1PUA2NzUyOTgwNjZEOTk1Nkc9%26apptime%3D1768215269%26share_id%3Db2c7d0b800f94c5e91086724670c94dd%26share_channel%3Dcopy_link%26appuid%3D649fc097000000000a0211a4%26xhsshare%3DCopyLink&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=5e08da49-1512-479c-a6d2-8335caa56bb0&verifyMsg= (Error: list index out of range)",
+            "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_utEGaUOH?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F6651cfab0000000014019950%3Fapp_platform%3Dandroid%26ignoreEngage%3Dtrue%26app_version%3D9.15.0%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBhBsDzyNay6TM4hX2dZFenIOxGHlCk7xoCNb4a0N_XW4%3D%26author_share%3D1%26shareRedId%3DODo7RkY1PUA2NzUyOTgwNjZEOTk1Nkc9%26apptime%3D1768215269%26share_id%3Db2c7d0b800f94c5e91086724670c94dd%26share_channel%3Dcopy_link%26appuid%3D649fc097000000000a0211a4%26xhsshare%3DCopyLink&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=c3f41dd1-6bf2-48c8-b144-2a67c3296107&verifyMsg= (Error: list index out of range)",
             "download_with_ffmpeg": false,
             "download_with_aria2c": false,
             "aria2c_settings": {},
@@ -1537,14 +1516,14 @@
           "name": "RednoteVideoClient",
           "test_url": "http://xhslink.com/o/A7MOvT2d4IM",
           "ok": false,
-          "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_JEqSJpKY?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F694299c7000000000d037d63%3Fapp_platform%3Dios%26app_version%3D9.19.1%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBNLLMoTgS3o3Dh_9gLOP5Hvrz5n5ClnK4z5MlD4X1i6Y%3D%26author_share%3D1%26xhsshare%3DCopyLink%26shareRedId%3DODo4NTM1PD82NzUyOTgwNjg8OTg7NTdA%26apptime%3D1769671532%26share_id%3Dcbdc8034f9c64df4a934679961876052&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=78e92fcb-cbf5-4717-bbf3-e49b66cfb354&verifyMsg= (Error: list index out of range)",
+          "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_jngXWStK?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F694299c7000000000d037d63%3Fapp_platform%3Dios%26app_version%3D9.19.1%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBNLLMoTgS3o3Dh_9gLOP5Hvrz5n5ClnK4z5MlD4X1i6Y%3D%26author_share%3D1%26xhsshare%3DCopyLink%26shareRedId%3DODo4NTM1PD82NzUyOTgwNjg8OTg7NTdA%26apptime%3D1769671532%26share_id%3Dcbdc8034f9c64df4a934679961876052&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=4ab4816a-28d8-4911-9ddd-b3bbf28e9c16&verifyMsg= (Error: list index out of range)",
           "parse_result": {
             "source": "RednoteVideoClient",
             "download_url": "",
             "title": "",
             "file_path": "",
             "ext": "mp4",
-            "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_JEqSJpKY?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F694299c7000000000d037d63%3Fapp_platform%3Dios%26app_version%3D9.19.1%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBNLLMoTgS3o3Dh_9gLOP5Hvrz5n5ClnK4z5MlD4X1i6Y%3D%26author_share%3D1%26xhsshare%3DCopyLink%26shareRedId%3DODo4NTM1PD82NzUyOTgwNjg8OTg7NTdA%26apptime%3D1769671532%26share_id%3Dcbdc8034f9c64df4a934679961876052&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=78e92fcb-cbf5-4717-bbf3-e49b66cfb354&verifyMsg= (Error: list index out of range)",
+            "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_jngXWStK?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F694299c7000000000d037d63%3Fapp_platform%3Dios%26app_version%3D9.19.1%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBNLLMoTgS3o3Dh_9gLOP5Hvrz5n5ClnK4z5MlD4X1i6Y%3D%26author_share%3D1%26xhsshare%3DCopyLink%26shareRedId%3DODo4NTM1PD82NzUyOTgwNjg8OTg7NTdA%26apptime%3D1769671532%26share_id%3Dcbdc8034f9c64df4a934679961876052&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=4ab4816a-28d8-4911-9ddd-b3bbf28e9c16&verifyMsg= (Error: list index out of range)",
             "download_with_ffmpeg": false,
             "download_with_aria2c": false,
             "aria2c_settings": {},
@@ -1565,14 +1544,14 @@
           "name": "RednoteVideoClient",
           "test_url": "http://xhslink.com/o/3hFb1CXputg",
           "ok": false,
-          "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_xerWPOaK?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F68b261cd000000001c0319dc%3Fapp_platform%3Dandroid%26ignoreEngage%3Dtrue%26app_version%3D9.15.0%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBLq1p2XFuMugMYM8wUDlq1sFcLUD8_BUWpk1LmPWYdR0%3D%26author_share%3D1%26appuid%3D639e71b100000000260117d8%26xhsshare%3DCopyLink&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=5f5c8eec-8642-4335-bb5e-b41eb014ae0f&verifyMsg= (Error: list index out of range)",
+          "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_GEONJXgP?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F68b261cd000000001c0319dc%3Fapp_platform%3Dandroid%26ignoreEngage%3Dtrue%26app_version%3D9.15.0%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBLq1p2XFuMugMYM8wUDlq1sFcLUD8_BUWpk1LmPWYdR0%3D%26author_share%3D1%26appuid%3D639e71b100000000260117d8%26xhsshare%3DCopyLink&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=31f34295-a58b-481e-a5a9-c4b9ed803744&verifyMsg= (Error: list index out of range)",
           "parse_result": {
             "source": "RednoteVideoClient",
             "download_url": "",
             "title": "",
             "file_path": "",
             "ext": "mp4",
-            "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_xerWPOaK?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F68b261cd000000001c0319dc%3Fapp_platform%3Dandroid%26ignoreEngage%3Dtrue%26app_version%3D9.15.0%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBLq1p2XFuMugMYM8wUDlq1sFcLUD8_BUWpk1LmPWYdR0%3D%26author_share%3D1%26appuid%3D639e71b100000000260117d8%26xhsshare%3DCopyLink&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=5f5c8eec-8642-4335-bb5e-b41eb014ae0f&verifyMsg= (Error: list index out of range)",
+            "err_msg": "RednoteVideoClient.parsefromurl >>> https://www.xiaohongshu.com/404?source=/404/sec_GEONJXgP?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F68b261cd000000001c0319dc%3Fapp_platform%3Dandroid%26ignoreEngage%3Dtrue%26app_version%3D9.15.0%26share_from_user_hidden%3Dtrue%26xsec_source%3Dapp_share%26type%3Dvideo%26xsec_token%3DCBLq1p2XFuMugMYM8wUDlq1sFcLUD8_BUWpk1LmPWYdR0%3D%26author_share%3D1%26appuid%3D639e71b100000000260117d8%26xhsshare%3DCopyLink&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=31f34295-a58b-481e-a5a9-c4b9ed803744&verifyMsg= (Error: list index out of range)",
             "download_with_ffmpeg": false,
             "download_with_aria2c": false,
             "aria2c_settings": {},
@@ -1596,7 +1575,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "RednoteVideoClient",
-            "download_url": "http://sns-video-v28.xhscdn.com/stream/79/110/258/01e95cc800dd6bcf4f0370019b926d75b3_258.mp4?sign=16ee89ddf453773f8f0c0caa289d634f&t=6a3f98c2",
+            "download_url": "http://sns-video-v28.xhscdn.com/stream/79/110/258/01e95cc800dd6bcf4f0370019b926d75b3_258.mp4?sign=e742dd126ee8989210cced091e7600c2&t=6a423b4c",
             "title": "eisonAI 2.0 正式發佈",
             "file_path": "videodl_tmp_outputs/RednoteVideoClient/eisonAI 2.0 正式發佈.mp4",
             "ext": "mp4",
@@ -1638,7 +1617,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "WeiboVideoClient",
-            "download_url": "https://f.video.weibocdn.com/o0/2trMwafGlx08t6HssmRi01041202hh2a0E010.mp4?label=mp4_1080p&template=1920x1080.25.0&media_id=5234817776943232&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=2&ot=h&ps=3lckmu&uid=5Bm3J8&ab=,20135-g1,15568-g4,8012-g2,8013-g0,3601-g36,3601-g38&Expires=1782253986&ssig=jhRctS%2BUtP&KID=unistore,video",
+            "download_url": "https://f.video.weibocdn.com/o0/2trMwafGlx08t6HssmRi01041202hh2a0E010.mp4?label=mp4_1080p&template=1920x1080.25.0&media_id=5234817776943232&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=2&ot=h&ps=3lckmu&uid=5Bm3J8&ab=,20135-g1,15568-g4,8012-g2,8013-g0,3601-g36,3601-g38&Expires=1782426667&ssig=12uRW2Jlm8&KID=unistore,video",
             "title": "-憨憨早点睡-的微博视频",
             "file_path": "videodl_tmp_outputs/WeiboVideoClient/-憨憨早点睡-的微博视频.mp4",
             "ext": "mp4",
@@ -1670,7 +1649,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "WeiboVideoClient",
-            "download_url": "https://f.video.weibocdn.com/o0/0gRZKOiIlx08t6IddeIE010412007hGS0E010.mp4?label=mp4_720p&template=720x1280.24.0&ori=0&ps=1BThihd3VLAY5R&Expires=1782254000&ssig=1p6oHEcUIV&KID=unistore,video",
+            "download_url": "https://f.video.weibocdn.com/o0/0gRZKOiIlx08t6IddeIE010412007hGS0E010.mp4?label=mp4_720p&template=720x1280.24.0&ori=0&ps=1BThihd3VLAY5R&Expires=1782426682&ssig=4yWG8DyGSA&KID=unistore,video",
             "title": "中国蓝新闻的微博视频",
             "file_path": "videodl_tmp_outputs/WeiboVideoClient/中国蓝新闻的微博视频.mp4",
             "ext": "mp4",
@@ -1702,7 +1681,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "WeiboVideoClient",
-            "download_url": "https://f.video.weibocdn.com/o0/9aDjh1vUlx08u9hPIQaQ01041203wYmO0E020.mp4?label=mp4_720p&template=720x1280.24.0&ori=0&ps=1BThihd3VLAY5R&Expires=1782254014&ssig=%2BRMu4BGl2O&KID=unistore,video",
+            "download_url": "https://f.video.weibocdn.com/o0/9aDjh1vUlx08u9hPIQaQ01041203wYmO0E020.mp4?label=mp4_720p&template=720x1280.24.0&ori=0&ps=1BThihd3VLAY5R&Expires=1782426697&ssig=1I3Z0XuaXh&KID=unistore,video",
             "title": "颜值妹纸的微博视频",
             "file_path": "videodl_tmp_outputs/WeiboVideoClient/颜值妹纸的微博视频.mp4",
             "ext": "mp4",
@@ -1734,7 +1713,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "WeiboVideoClient",
-            "download_url": "https://f.us.sinaimg.cn/001XKiUzlx07uUdC29u001041200wBlk0E010.mp4?label=mp4_hd&template=1036x480.28.0&media_id=4386795211940756&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=4&ot=h&ps=3lckmu&uid=5Bm3J8&ab=&Expires=1782254030&ssig=JNK1bEDY%2FU&KID=unistore,video",
+            "download_url": "https://f.us.sinaimg.cn/001XKiUzlx07uUdC29u001041200wBlk0E010.mp4?label=mp4_hd&template=1036x480.28.0&media_id=4386795211940756&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=4&ot=h&ps=3lckmu&uid=5Bm3J8&ab=&Expires=1782426711&ssig=X3zZckSTmF&KID=unistore,video",
             "title": "爱可可-爱生活的微博视频",
             "file_path": "videodl_tmp_outputs/WeiboVideoClient/爱可可-爱生活的微博视频.mp4",
             "ext": "mp4",
@@ -1776,7 +1755,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "Open163VideoClient",
-            "download_url": "https://flv0.bn.netease.com/dc174fca12f191dab3e68130c6df71e331cbad45ea212ec7ba7f589f3e530d2545bb83cd23fc0d7c815ac65780bd965f2158fab7789da4395fe0e55b10d14118864daec968f25b2a1f93582ca7169f879cc419d004d10643c469b701af01b98007f0163f9715ee3e3829c7ad5e7ad9e8d222e022f2073e13.mp4",
+            "download_url": "https://flv0.bn.netease.com/76a7226d572c970b34e1f7dedd50c98febbfc3cf0e9ac426506a68b014bfe134c764cf4b960232c5f922f79b4bf8a71f3d50fb60c7e5b311f1c20d84e30681e24b89727ae044cb809f648a11a523fff15f4135cb577c1ff6652d7283f74ac62000842315340e2cfa52d7331d3ff6757c69faf3cc10525018.mp4",
             "title": "Pursuit of Wonder-ep1-关于潜在外星人的令人不安的理论(&费米悖论的解决方案)（上）",
             "file_path": "videodl_tmp_outputs/Open163VideoClient/Pursuit of Wonder-ep1-关于潜在外星人的令人不安的理论(&费米悖论的解决方案)（上）.mp4",
             "ext": "mp4",
@@ -1882,7 +1861,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "KuaishouVideoClient",
-            "download_url": "https://v23-3.kwaicdn.com/upic/2025/07/03/20/BMjAyNTA3MDMyMDM1NDdfMTY5MjQxNDg4M18xNjg0MjI2Mzg2MzJfMV8z_b_Beea5777bbc0733a6048589141af65897.mp4?pkey=AAUks6gljsMRueTAatxlQh8aL7yaLIHOdvvYtpn9015D7so5Y0s1tOVjSWDBKazmP2k7WmqsVpClU-jk9nmq_T6MJ_mFlG8zF7DaeSw9aZLFeC-u5IuIwhCmJl-3DZkHGwA&tag=1-1782250489-unknown-0-6onywmpwv2-acd0013ec59ac0fb&clientCacheKey=3xwzr5dveyqc5fa_b.mp4&di=34ea0165&bp=10000&kwai-not-alloc=35&tt=b&ss=vpm",
+            "download_url": "https://v4.oskwai.com/upic/2025/07/03/20/BMjAyNTA3MDMyMDM1NDdfMTY5MjQxNDg4M18xNjg0MjI2Mzg2MzJfMV8z_b_Beea5777bbc0733a6048589141af65897.mp4?pkey=AAUpX6bjfwrMqISDSobuaoCbvkEBBYSiv7H0rFACmYI0Hr5huYb7nVHK0ZvFP_I_YpRnI1vhdN28lJK231J2qKlVaATsX7FCnNJ4WIYWglue1B4M19LOBMGLK-gRf2bh1AQ&tag=1-1782423169-unknown-0-wrspd0kwov-d34adfa883593811&clientCacheKey=3xwzr5dveyqc5fa_b.mp4&di=4aeb8e11&bp=10000&kwai-not-alloc=35&tt=b&ss=vpm",
             "title": "#萌妹子",
             "file_path": "videodl_tmp_outputs/KuaishouVideoClient/#萌妹子.mp4",
             "ext": "mp4",
@@ -1904,7 +1883,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p23.a.yximgs.com/upic/2025/07/03/20/BMjAyNTA3MDMyMDM1NDdfMTY5MjQxNDg4M18xNjg0MjI2Mzg2MzJfMV8z_B1e22a51c6f9a4c307fa3cf24c5217d3f.jpg?clientCacheKey=3xwzr5dveyqc5fa.jpg&di=34ea0165&bp=10000"
+            "cover_url": "https://p2.a.yximgs.com/upic/2025/07/03/20/BMjAyNTA3MDMyMDM1NDdfMTY5MjQxNDg4M18xNjg0MjI2Mzg2MzJfMV8z_B1e22a51c6f9a4c307fa3cf24c5217d3f.jpg?clientCacheKey=3xwzr5dveyqc5fa.jpg&di=4aeb8e11&bp=10000"
           }
         },
         {
@@ -1914,10 +1893,10 @@
           "err_msg": "",
           "parse_result": {
             "source": "KuaishouVideoClient",
-            "download_url": "https://v1-vod.kwaicdn.com/bs3/video-hls/5211227898037805259_d6a1d4c8730ccaf3_8131_hlsb.m3u8?x-kcdn-pid=12021&kwai-not-alloc=19&pkey=AAX_4nn-GtujkF0KFx57CLhgMljWxc_gp0J2qRr9Kd1dLWIXJnNwKzh5XKt5U7PiEjU6H60SrK7-VRrFybeEEbQ6193Iu9iXQTz8zmE0bDYnhkcE4mygi1i2yjMVHg-2jiE&ss=vpm",
+            "download_url": "https://v23-3.kwaicdn.com/bs2/photo-video-mz/5211227898037805259_d6a1d4c8730ccaf3_4041_hd15.mp4?pkey=AAUJLjrJl3KzH1fNSc8Uyd3d_EPLBRDxzAgRAOTyR8L16vYjmZiYCzqXdkxQgw68qri5UySgIsG97-HjdlcydWgPA_fw4ROYKpkWDhHzbIbUaUSDZUiwee4ij51yuU8ozLo&tag=1-1782423251-unknown-0-y8hsl3lzc8-c6883f3d677eb0bd&clientCacheKey=3xjpwzyparcgnck_90fa89dd&di=4aeb8e11&bp=10004&kwai-not-alloc=35&tt=hd15&ss=vpm",
             "title": "带领男女老少共练传统技艺宫廷盘杠，看着大家的进步我很欣慰！ #快成长计划 #文娱百科明日之星 #宫廷盘杠 #公园健身",
-            "file_path": "videodl_tmp_outputs/KuaishouVideoClient/带领男女老少共练传统技艺宫廷盘杠，看着大家的进步我很欣慰！ #快成长计划 #文娱百科明日之星 #宫廷盘杠 #公园健身.m3u8",
-            "ext": "m3u8",
+            "file_path": "videodl_tmp_outputs/KuaishouVideoClient/带领男女老少共练传统技艺宫廷盘杠，看着大家的进步我很欣慰！ #快成长计划 #文娱百科明日之星 #宫廷盘杠 #公园健身.mp4",
+            "ext": "mp4",
             "err_msg": "",
             "download_with_ffmpeg": false,
             "download_with_aria2c": false,
@@ -1926,7 +1905,7 @@
             "nm3u8dlre_settings": {},
             "identifier": "3xjpwzyparcgnck",
             "guess_video_ext_result": {
-              "ext": "m3u8",
+              "ext": "mp4",
               "sniffer": "urllib.parse",
               "ok": true
             },
@@ -1936,7 +1915,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p2.a.yximgs.com/upic/2025/10/26/18/BMjAyNTEwMjYxODQxMTBfNTM5MTc3Nl8xNzgzNDk1NTk4OTRfMV8z_Ba9a4f4058c21a953cc4648f4fa88e772.jpg?clientCacheKey=3xjpwzyparcgnck.jpg&di=34ea0165&bp=10000"
+            "cover_url": "https://p2.a.yximgs.com/upic/2025/10/26/18/BMjAyNTEwMjYxODQxMTBfNTM5MTc3Nl8xNzgzNDk1NTk4OTRfMV8z_Ba9a4f4058c21a953cc4648f4fa88e772.jpg?tag=1-1782423251-xpcwebdetail-0-gm7rzwvo01-c19876898a67d721&clientCacheKey=3xjpwzyparcgnck.jpg&di=4aeb8e11&bp=10004"
           }
         },
         {
@@ -1946,7 +1925,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "KuaishouVideoClient",
-            "download_url": "https://v23-3.kwaicdn.com/upic/2025/11/08/07/BMjAyNTExMDgwNzUxNTlfMzk4Mzk3MTU4M18xNzkzMjU5NDA3ODFfMl8z_b_B546a71c0f574a48148e080bcda789c17.mp4?pkey=AAWNxTQQg2vVFmxUJ4Hv0GZ9Msqw6XNJCVJ73Exq3Q1UhlMxjhGU52glHwq27H-4H1oVXMVTdfuFCXvJyjkz3vaxMPfDCN9HncKlxR3e5PY0VfF5zOYOQVkXUo2XDFGOyHg&tag=1-1782250525-unknown-0-uuzitukkm5-7c3de0304a450a38&clientCacheKey=3x5k4yswvs3k9r9_b.mp4&di=34ea0165&bp=10000&kwai-not-alloc=35&tt=b&ss=vpm",
+            "download_url": "https://v23-3.kwaicdn.com/upic/2025/11/08/07/BMjAyNTExMDgwNzUxNTlfMzk4Mzk3MTU4M18xNzkzMjU5NDA3ODFfMl8z_b_B546a71c0f574a48148e080bcda789c17.mp4?pkey=AAXl76KCB6d02MZHejG8tnKbnluCSxdQae-_BuNX3fw-KMUHBrW4fyPJ7rIyXjNDkLMfYHkge_Ifalxh7LgERRZphGC4jd2MKEwaxf4oI1rryFejgBxtWslH72uLy-tb_IU&tag=1-1782423271-unknown-0-j6ewvkvxfn-5ee100063e220b9d&clientCacheKey=3x5k4yswvs3k9r9_b.mp4&di=4aeb8e11&bp=10000&kwai-not-alloc=35&tt=b&ss=vpm",
             "title": "#正常穿搭无不良引导 #喜爱度激励计划 #已成年 #甜也是妹 @你头发乱了^ @Cuser_4715345634 @天空下小雨",
             "file_path": "videodl_tmp_outputs/KuaishouVideoClient/#正常穿搭无不良引导 #喜爱度激励计划 #已成年 #甜也是妹 @你头发乱了^ @Cuser_4715345634 @天空下小雨.mp4",
             "ext": "mp4",
@@ -1968,7 +1947,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p23.a.yximgs.com/upic/2025/11/08/07/BMjAyNTExMDgwNzUxNTlfMzk4Mzk3MTU4M18xNzkzMjU5NDA3ODFfMl8z_B72b3e1efeca987155a304e45e585458c.jpg?clientCacheKey=3x5k4yswvs3k9r9.jpg&di=34ea0165&bp=10000"
+            "cover_url": "https://p4.a.yximgs.com/upic/2025/11/08/07/BMjAyNTExMDgwNzUxNTlfMzk4Mzk3MTU4M18xNzkzMjU5NDA3ODFfMl8z_B72b3e1efeca987155a304e45e585458c.jpg?clientCacheKey=3x5k4yswvs3k9r9.jpg&di=4aeb8e11&bp=10000"
           }
         },
         {
@@ -1978,7 +1957,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "KuaishouVideoClient",
-            "download_url": "https://v23-3.kwaicdn.com/upic/2024/03/21/13/BMjAyNDAzMjExMzIzMThfMjM4MzgxMjQwMl8xMjc4MjA1MjI0OThfMV8z_b_B9af03530f71003776bc89bd8eef90e40.mp4?pkey=AAXBR6xmfuE5kUp7_GujtK7k8QMmrW0FdcTH-mzbinHYCGW0GLsvYnkPM7OzMkL5L8ChVsTXLlM_5mzKOHzHc8aE2y3CXxORBzrh9djzDbFY808R3xZKL7_hxnwdmD8zhvs&tag=1-1782250544-unknown-0-3lnmk2yvyi-68f58642d6418d68&clientCacheKey=3xi5u3rzf5qrgq4_b.mp4&di=34ea0165&bp=10000&kwai-not-alloc=35&tt=b&ss=vpm",
+            "download_url": "https://v4.oskwai.com/upic/2024/03/21/13/BMjAyNDAzMjExMzIzMThfMjM4MzgxMjQwMl8xMjc4MjA1MjI0OThfMV8z_b_B9af03530f71003776bc89bd8eef90e40.mp4?pkey=AAXvjMj0-yt_tSW7bDmRVRxwslj5uJHZjQbf4m3DgJx8mDnNWM004mhsfVG2OpA4RUmevh_eJGIl4g9X4ChxYvSN8Cd9DKFvvX4c4-aR8X53ds2y2w8qt_s85Ue65K0aTKM&tag=1-1782423289-unknown-0-bwhbu6lxij-dbac3382ba9842bb&clientCacheKey=3xi5u3rzf5qrgq4_b.mp4&di=4aeb8e11&bp=10000&kwai-not-alloc=35&tt=b&ss=vpm",
             "title": "#短剧推荐 #短剧",
             "file_path": "videodl_tmp_outputs/KuaishouVideoClient/#短剧推荐 #短剧.mp4",
             "ext": "mp4",
@@ -2000,7 +1979,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p2.a.yximgs.com/upic/2024/03/21/13/BMjAyNDAzMjExMzIzMThfMjM4MzgxMjQwMl8xMjc4MjA1MjI0OThfMV8z_Be46362091c4bc1d580a9083a07fac879.jpg?clientCacheKey=3xi5u3rzf5qrgq4.jpg&di=34ea0165&bp=10000"
+            "cover_url": "https://p3.a.yximgs.com/upic/2024/03/21/13/BMjAyNDAzMjExMzIzMThfMjM4MzgxMjQwMl8xMjc4MjA1MjI0OThfMV8z_Be46362091c4bc1d580a9083a07fac879.jpg?clientCacheKey=3xi5u3rzf5qrgq4.jpg&di=4aeb8e11&bp=10000"
           }
         }
       ]
@@ -2072,7 +2051,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "ZhihuVideoClient",
-            "download_url": "https://vdn3.vzuu.com/FHD/65964648-6b9a-11eb-90a1-fade0dfb67f8.mp4?auth_key=1782254161-0-0-b1bd9412cbf5c3a05ab2f015c48bbfc5&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1782254161&f=mp4&pu=da4bec50&v=tx",
+            "download_url": "https://vdn3.vzuu.com/FHD/65964648-6b9a-11eb-90a1-fade0dfb67f8.mp4?auth_key=1782426905-0-0-0d5f90a721fd3b1cbbc1f558cae8802e&bu=1513c7c2&c=avc.0.0&disable_local_cache=1&expiration=1782426905&f=mp4&pu=da4bec50&v=tx",
             "title": "写春联也太难了吧！",
             "file_path": "videodl_tmp_outputs/ZhihuVideoClient/写春联也太难了吧！.mp4",
             "ext": "mp4",
@@ -2094,7 +2073,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://pic1.zhimg.com/v2-148f884ffec11aec077e86e2bf145b1c_1440w.jpg?source=12a79843"
+            "cover_url": "https://picx.zhimg.com/v2-148f884ffec11aec077e86e2bf145b1c_1440w.jpg?source=12a79843"
           }
         },
         {
@@ -2104,7 +2083,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "ZhihuVideoClient",
-            "download_url": "https://vdn3.vzuu.com/FHD/edfdab38-c7a3-11f0-92d0-66aefd17f3a1-v8_f2_t2_xIneJ4ap.mp4?auth_key=1782254173-0-0-07be592f8d51c873bf5f366cd31edd69&bu=1513c7c2&c=avc.8.0&disable_local_cache=1&expiration=1782254173&f=mp4&pu=1513c7c2&v=tx",
+            "download_url": "https://vdn3.vzuu.com/FHD/edfdab38-c7a3-11f0-92d0-66aefd17f3a1-v8_f2_t2_xIneJ4ap.mp4?auth_key=1782426917-0-0-b4f740c3187a9f42fc7febb3cba158b3&bu=1513c7c2&c=avc.8.0&disable_local_cache=1&expiration=1782426917&f=mp4&pu=1513c7c2&v=tx",
             "title": "说粤语的人，从哪里来？",
             "file_path": "videodl_tmp_outputs/ZhihuVideoClient/说粤语的人，从哪里来？.mp4",
             "ext": "mp4",
@@ -2340,7 +2319,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "XinpianchangVideoClient",
-            "download_url": "https://us-xpc5-l2.xpccdn.com/2e426b13-f2b2-47a2-ae08-04dc3477a815/7bbd927a-f3db-41c4-8e7d-141ab5a4a8e4.mp4?j=%7B%22userId%22%3A0%2C%22deviceId%22%3A%22%22%2C%22ip%22%3A%2252.234.1.101%22%7D",
+            "download_url": "https://us-xpc5-l2.xpccdn.com/2e426b13-f2b2-47a2-ae08-04dc3477a815/7bbd927a-f3db-41c4-8e7d-141ab5a4a8e4.mp4?e=1782430533&j=%7B%22userId%22%3A0%2C%22deviceId%22%3A%22%22%2C%22ip%22%3A%2274.235.142.17%22%7D&s=0555e6d06d55778521b6",
             "title": "广州，长路漫漫伴你闯！（全运会开幕影片Dir）",
             "file_path": "videodl_tmp_outputs/XinpianchangVideoClient/广州，长路漫漫伴你闯！（全运会开幕影片Dir）.mp4",
             "ext": "mp4",
@@ -2372,7 +2351,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "XinpianchangVideoClient",
-            "download_url": "https://us-xpc5-l2.xpccdn.com/b4bbd025-da33-4cdb-87f5-5530e008c5dd/ebca2e39-8e52-4502-84e3-f27c81e84f75.mp4?j=%7B%22userId%22%3A0%2C%22deviceId%22%3A%22%22%2C%22ip%22%3A%2252.234.1.101%22%7D",
+            "download_url": "https://us-xpc5-l2.xpccdn.com/b4bbd025-da33-4cdb-87f5-5530e008c5dd/ebca2e39-8e52-4502-84e3-f27c81e84f75.mp4?e=1782430545&j=%7B%22userId%22%3A0%2C%22deviceId%22%3A%22%22%2C%22ip%22%3A%2274.235.142.17%22%7D&s=e8e6af7d2ae9c6928ff6",
             "title": "视觉短片 电影滑雪广告 - ANOMALY",
             "file_path": "videodl_tmp_outputs/XinpianchangVideoClient/视觉短片 电影滑雪广告 - ANOMALY.mp4",
             "ext": "mp4",
@@ -2404,7 +2383,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "XinpianchangVideoClient",
-            "download_url": "https://us-xpc5.xpccdn.com/a872e680-ff39-4945-b061-c7c145a2176c.mp4?j=%7B%22userId%22%3A0%2C%22deviceId%22%3A%22%22%2C%22ip%22%3A%2252.234.1.101%22%7D",
+            "download_url": "https://us-xpc5.xpccdn.com/a872e680-ff39-4945-b061-c7c145a2176c.mp4?e=1782430561&j=%7B%22userId%22%3A0%2C%22deviceId%22%3A%22%22%2C%22ip%22%3A%2274.235.142.17%22%7D&s=9c98f89b9faa04754980",
             "title": "凸嘴女孩可能都是隐藏大美女",
             "file_path": "videodl_tmp_outputs/XinpianchangVideoClient/凸嘴女孩可能都是隐藏大美女.mp4",
             "ext": "mp4",
@@ -2616,7 +2595,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c001/owAKAAI1IiPBIAYxiPgalEBs9UC1Jii9AwisG~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1783458000&x-signature=yZytWkyEmIbhWFgPfDFaXLF1WSs%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260624053810F83BA9788657B39CB2F0"
+            "cover_url": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c001/owAKAAI1IiPBIAYxiPgalEBs9UC1Jii9AwisG~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1783630800&x-signature=Pi1fmwXAVi5Dz5H8SvC9UZBLtes%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260626053715045CC079F0B5E155E876"
           }
         },
         {
@@ -2648,7 +2627,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p26-sign.douyinpic.com/tos-cn-i-dy/aa1ae294495548608ddf79394fa83db0~tplv-dy-resize-walign-adapt-aq:720:q75.webp?lk3s=138a59ce&x-expires=1783458000&x-signature=DdgzXQUIVSfDj5jsvjN16IoScUQ%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260624053828D0993A9798434EA431C1"
+            "cover_url": "https://p26-sign.douyinpic.com/tos-cn-i-dy/aa1ae294495548608ddf79394fa83db0~tplv-dy-resize-walign-adapt-aq:720:q75.webp?lk3s=138a59ce&x-expires=1783630800&x-signature=uGefC5YMlgdixcY70%2FfugicEM8I%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202606260537368A47191903AA845A970E"
           }
         },
         {
@@ -2680,7 +2659,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p26-sign.douyinpic.com/tos-cn-i-dy/71d69740e88d4bad89d747d19a35af70~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1783458000&x-signature=jaJDrCGld%2BiQKXiEjYtBJsuiD4I%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=202606240538438AD58F8E0976B99E798D"
+            "cover_url": "https://p26-sign.douyinpic.com/tos-cn-i-dy/71d69740e88d4bad89d747d19a35af70~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1783630800&x-signature=5QxCDYULtubvS7Zo4mKqPtLCCAM%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026062605375491640D6E08B0094F5B79"
           }
         },
         {
@@ -2712,7 +2691,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p11-sign.douyinpic.com/tos-cn-p-0015/53aa5e7afa044b279cf2a4a605371d93_1592118630~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1783458000&x-signature=Qx91tJ9wXKAaxlJ8JrtZuU46oFM%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260624053859CEDC2013CEFC68A53D2C"
+            "cover_url": "https://p11-sign.douyinpic.com/tos-cn-p-0015/53aa5e7afa044b279cf2a4a605371d93_1592118630~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1783630800&x-signature=IoeVAgrdI%2FN98AAPJU6ObzzveCE%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=20260626053808E3455533F95E0D50490F"
           }
         }
       ]
@@ -2732,7 +2711,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "C56VideoClient",
-            "download_url": "http://video5.vod.tv.itc.cn/NHGp6NTdcgtfBngEO0CH73Qecd27qAPKTI3Qmajxne1c3UE3Of9al4jqioWr3hjQnAhssvJYAp4Jr.mp4?sig=ROswKQFj8e1TZUAjJTGIDDigR2FbATSvUjtEMg..&nid=2821",
+            "download_url": "http://video5.vod.tv.itc.cn/NHGp6NTdcgtfBngEO0CH73Qecd27qAPKTI3Qmajxne1c3UE3Of9al4jqioWr3hjQnAhssvJYAp4Jr.mp4?sig=QV6N-2M7s9guIPWmdiNcSW_GP1IfpfbJ_9cglA..&nid=2821",
             "title": "香港火灾救援最新进展：大楼被熏黑空气有焦糊味 消防员逐户破门搜索",
             "file_path": "videodl_tmp_outputs/C56VideoClient/香港火灾救援最新进展：大楼被熏黑空气有焦糊味 消防员逐户破门搜索.mp4",
             "ext": "mp4",
@@ -2761,7 +2740,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "C56VideoClient",
-            "download_url": "http://video5.vod.tv.itc.cn/NAQqHnBB6PwHLGsoJP2Da5tApGFTeW7CchkOfyKnVhgylUnvTo5PPff8SZsI2nQSU04nXsHqIj1ZQ.mp4?sig=iX0fp4bYFQmX0fAsQw7n6P4Lf3c0NE578Vrm6w..&nid=2821",
+            "download_url": "http://video5.vod.tv.itc.cn/NAQqHnBB6PwHLGsoJP2Da5tApGFTeW7CchkOfyKnVhgylUnvTo5PPff8SZsI2nQSU04nXsHqIj1ZQ.mp4?sig=87ess6UWyePJEz6g37NvPdvbX3m4SQcOmbklBQ..&nid=2821",
             "title": "papi酱：隔代宠，来自爷爷奶奶外公外婆的双标",
             "file_path": "videodl_tmp_outputs/C56VideoClient/papi酱：隔代宠，来自爷爷奶奶外公外婆的双标.mp4",
             "ext": "mp4",
@@ -2922,7 +2901,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "FoxNewsVideoClient",
-            "download_url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/27da0f4a-02cc-407a-931a-9a355b5d62d3/10s/master.m3u8?fastly_token=NmIyYzQ0ZGRfZjYwZDllY2E4ZTVjNjc0NjZkYmI1YjZlM2ZiZGRkMzk4MTJhYTRmMzlkNTdlOTFmODc1ZjcyNWQ2ZjIyNzQwZg%3D%3D",
+            "download_url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/27da0f4a-02cc-407a-931a-9a355b5d62d3/10s/master.m3u8?fastly_token=NmIyZWU3YjJfMTY4YTRiYTI5MzMyODljY2IzNmQ4ZmQwNGMxNDY5MDVjYzMwOWEyNTI0NGU0MjY5MTg3MDY2ZDJkYzAzY2ViYg%3D%3D",
             "title": "Suspect with possible US government ties triggers major FBI review",
             "file_path": "videodl_tmp_outputs/FoxNewsVideoClient/Suspect with possible US government ties triggers major FBI review.m3u8",
             "ext": "m3u8",
@@ -2954,7 +2933,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "FoxNewsVideoClient",
-            "download_url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/f2d95c86-910e-4eca-905b-0f188cb5cd21/10s/master.m3u8?fastly_token=NmIyYzQ1NWRfZjQyMWIzZGJkMTViNTE1NzVkNzNlN2I0OTM0ZmEyYTllMGViODk5MTE2OTliOWJhMmQxODljNjMzZjFkYmRmZA%3D%3D",
+            "download_url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/f2d95c86-910e-4eca-905b-0f188cb5cd21/10s/master.m3u8?fastly_token=NmIyZWU4MzNfZmRjN2Y2YjNlMjY3M2NkN2UzYWM1YWM3YjFmZGY4YjM2YmQ5Y2U0NDJlYTczN2RkMmQ5ZmI2N2U4YmUyM2Q2Ng%3D%3D",
             "title": "Tucker Carlson joins 'Gutfeld!' to discuss his new documentary",
             "file_path": "videodl_tmp_outputs/FoxNewsVideoClient/Tucker Carlson joins 'Gutfeld!' to discuss his new documentary.m3u8",
             "ext": "m3u8",
@@ -2986,7 +2965,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "FoxNewsVideoClient",
-            "download_url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/ddfd86c3-b690-4805-a0fd-70dce7768db7/10s/master.m3u8?fastly_token=NmIyYzQ1ZjVfNDgzMDgyNTM3ZTIyYTg5MjdhZGZmYzNkMDQ1NTQwYmY5ZDEyM2ZlMGRjYWNlY2RjNmY4MmNjNjY2NThjMWQxZg%3D%3D",
+            "download_url": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/694940094001/ddfd86c3-b690-4805-a0fd-70dce7768db7/10s/master.m3u8?fastly_token=NmIyZWU4Y2JfMDRjMWU2ZmJlZmM4MDkxMjIxMjc0Mjc2N2IzYTY1YmE2YTFmODI0NTE2OGQ3M2Y1YWVmNjRjMzNhMDAxNzQwYg%3D%3D",
             "title": "82416_censoring",
             "file_path": "videodl_tmp_outputs/FoxNewsVideoClient/82416_censoring.m3u8",
             "ext": "m3u8",
@@ -3046,7 +3025,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p2.ivideo.sina.com.cn/video/250/587/748/250587748.jpg"
+            "cover_url": "https://p1.ivideo.sina.com.cn/video/250/587/748/250587748.jpg"
           }
         },
         {
@@ -3074,7 +3053,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p1.ivideo.sina.com.cn/video/573/503/651/573503651.jpg"
+            "cover_url": "https://p3.ivideo.sina.com.cn/video/573/503/651/573503651.jpg"
           }
         },
         {
@@ -3102,7 +3081,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p3.ivideo.sina.com.cn/video/250/576/030/250576030.jpg"
+            "cover_url": "https://p2.ivideo.sina.com.cn/video/250/576/030/250576030.jpg"
           }
         }
       ]
@@ -3344,7 +3323,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "WeSingVideoClient",
-            "download_url": "http://tx.stream.kg.qq.com/njc-kgsvp/njc_0_50111_81_54b10fea887b18ba557e47ef83f9fafc598192ae.f0.mp4?vkey=7A8771BD3B314CD326380B20A1031F1A12EA437C9B446D2539DAFAF0F2A2674BBB6D3F631235124FD4C540C2171A74D58C167D1D055C44E26693060181A47C4C47CCCDC0AEB33C7605DF152FD39A46C46F9992A789F6D252&dis_k=18f1af9fa80ee9a6e19657e25584bbb3&dis_t=1782085445&fromtag=81&ugcid=18835101_1604334214_301&nr=1",
+            "download_url": "http://tx.stream.kg.qq.com/njc-kgsvp/njc_0_50111_81_54b10fea887b18ba557e47ef83f9fafc598192ae.f0.mp4?vkey=2587E9DC9F8A531DE0962171DD84022EAE30BD49098894EBC2B3B95F9B37990066353B2A6D6D0C9ACCF6BD2FAB7DC98D362152CA25922CC3FE3A19D51E4B21239F2037BA56F54D4F888F63FA49A5126977D5298188244892&dis_k=6e609812e1ba0c3ed8b6e6bdc7433219&dis_t=1782258213&fromtag=81&ugcid=18835101_1604334214_301&nr=1",
             "title": "《我不是高富帅》",
             "file_path": "videodl_tmp_outputs/WeSingVideoClient/《我不是高富帅》.mp4",
             "ext": "mp4",
@@ -3376,7 +3355,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "WeSingVideoClient",
-            "download_url": "http://tx.stream.kg.qq.com/njc-kgsvp/86_s_0bc37vbewaqa4qalzwstvrul77odjpoaayka.f825.mp4?vkey=412187D14760CA83CAF9E4B66DA6F606A5421D9F837E2BFD42486D818C6CF1D88B11CC1F891E998E024DF472888DABB1A6B191C2245C5AF191D2DEFF781CDE9668728083AE75660493DE6AD78F38CE1D8B7FF4C9D8FC6473&dis_k=2273988ba53d0d2445fb960328806e7f&dis_t=1782085457&fromtag=86&ugcid=37890593_1750333211_868&nr=1",
+            "download_url": "http://tx.stream.kg.qq.com/njc-kgsvp/86_s_0bc37vbewaqa4qalzwstvrul77odjpoaayka.f825.mp4?vkey=24F98B09CEA1A06F5801E4920E765B4E56F0673977910FBF26F2FC4DF7315C7113FDD4A6E6BBA2B8686B67CB5F5A3895CE8F67C8D72220707B9F6C81EEC046ABA72F6A5758F503C7CF788ED27C7BF79703E0C67DD158B853&dis_k=aeb68c66237465912b80e350eb252d09&dis_t=1782258225&fromtag=86&ugcid=37890593_1750333211_868&nr=1",
             "title": "珠玉(清唱版)",
             "file_path": "videodl_tmp_outputs/WeSingVideoClient/珠玉(清唱版).mp4",
             "ext": "mp4",
@@ -3418,7 +3397,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "XiguaVideoClient",
-            "download_url": "https://v11-colds.douyinvod.com/116d1327c37976221caacb7cfb2c6dff/6a3ba750/video/tos/cn/tos-cn-ve-0026c800/o0I7j0AyU6QFrfI2FlDznQQAhBANA46ZEEKahA/?a=1128&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=1034&bt=1034&cs=0&ds=3&eid=21760&ft=E~I1GY22HjVQ9yT8R_JD.M6~OGfnYbgrHCfxtyrKCE&mime_type=video_mp4&qs=13&rc=ajRqOTg6ZnY0cTMzNGQzM0BpajRqOTg6ZnY0cTMzNGQzM0BmZGRxcjQwXzVgLS1kLi9zYSNmZGRxcjQwXzVgLS1kLi9zcw%3D%3D&btag=80090e00068000&cdn_type=2&cquery=100g&dy_q=1782251070&feature_id=1229c61d4e863560fb994c11be849377&l=20260624054430A22520FF0DD11814A4E2&pwid=282&req_cdn_type=r",
+            "download_url": "https://v3-dy-o.zjcdn.com/e892bb8b1da27fd685349c2f49c70db1/6a3e4a32/video/tos/cn/tos-cn-ve-0026c800/o0I7j0AyU6QFrfI2FlDznQQAhBANA46ZEEKahA/?a=1128&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=1034&bt=1034&cs=0&ds=3&eid=21760&ft=y4f8Kq80nCUY55tlcAwiHn6RQjKJg8jGcYSTP7--5tgY293Vn2F8Zgo&mime_type=video_mp4&qs=13&rc=ajRqOTg6ZnY0cTMzNGQzM0BpajRqOTg6ZnY0cTMzNGQzM0BmZGRxcjQwXzVgLS1kLi9zYSNmZGRxcjQwXzVgLS1kLi9zcw%3D%3D&btag=80090e00068000&cc=1f&cdn_type=2&cquery=100g&dy_q=1782423840&feature_id=1229c61d4e863560fb994c11be849377&l=202606260544001E45C394852C7156E61D&pwid=1&req_cdn_type=r",
             "title": "16岁青岛小将张展硕成就双冠王",
             "file_path": "videodl_tmp_outputs/XiguaVideoClient/16岁青岛小将张展硕成就双冠王.mp4",
             "ext": "mp4",
@@ -3440,7 +3419,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p3-sign.bdxiguaimg.com/tos-cn-i-0026/o4IgfmLJAqZBBiClpvOCAPbvJDQfIA8gAGA0bn~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1128&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=101_large_image_list&imageType=video1609&isImmersiveScene=0&is_ios=1&is_stream=0&lk3s=9d3f5bff&logId=20260624054430A22520FF0DD11814A4E2&requestFrom=101&version_code=0&x-expires=1813787070&x-signature=u9KjWv%2FCa754wPtYKX1dFQoVQ3I%3D"
+            "cover_url": "https://p26-sign.bdxiguaimg.com/tos-cn-i-0026/o4IgfmLJAqZBBiClpvOCAPbvJDQfIA8gAGA0bn~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1128&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=101_large_image_list&imageType=video1609&isImmersiveScene=0&is_ios=1&is_stream=0&lk3s=9d3f5bff&logId=202606260544001E45C394852C7156E61D&requestFrom=101&version_code=0&x-expires=1813959840&x-signature=5FiF7j5YcyGL%2BYwDiJc%2FSWEIA%2Bw%3D"
           }
         },
         {
@@ -3450,7 +3429,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "XiguaVideoClient",
-            "download_url": "https://v5-hl-zenl-ov.zjcdn.com/78209d155b3915b77e8661e18aae4d88/6a3ba803/video/tos/cn/tos-cn-ve-0031c801/os7BXfQb4Xzm8AAjIAMb9s2ngDTBC4QeURFREQ/?a=1128&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&cv=1&br=769&bt=769&cs=0&ds=3&ft=r0yIZ26Td95~~iSYlQAPtuGjNLrkZiXY5OzonggKXxuI1CGP04yqkZ&mime_type=video_mp4&qs=0&rc=Ojg0NWg7ZzVkPDU6ODY7ZUBpanA2bTs6Zjd1cjMzNGkzM0AtYGFjLjQtXi4xYzIxMjNeYSNhc21ucjQwLV9gLS1kLi9zcw%3D%3D&btag=80010e000b0000&cdn_type=2&cquery=100g&dy_q=1782251084&feature_id=c971272fc3ffbf3302638b781fde9447&l=20260624054444652CEB154CDDC819DC6B&pwid=1&req_cdn_type=r",
+            "download_url": "https://v5-hl-zenl-ov.zjcdn.com/36d3378e78503d87da29791cafa5290c/6a3e4ae5/video/tos/cn/tos-cn-ve-0031c801/os7BXfQb4Xzm8AAjIAMb9s2ngDTBC4QeURFREQ/?a=1128&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&cv=1&br=769&bt=769&cs=0&ds=3&ft=r0yIZ26Td95~~iSYlQAS-WUjNLrkZiXY5Ozongg4rUSMsU99V4yqkZ&mime_type=video_mp4&qs=0&rc=Ojg0NWg7ZzVkPDU6ODY7ZUBpanA2bTs6Zjd1cjMzNGkzM0AtYGFjLjQtXi4xYzIxMjNeYSNhc21ucjQwLV9gLS1kLi9zcw%3D%3D&btag=80010e000b0000&cdn_type=2&cquery=100g&dy_q=1782423854&feature_id=c971272fc3ffbf3302638b781fde9447&l=202606260544143B3DC701195644ACCE56&pwid=1&req_cdn_type=r",
             "title": "中国“产能过剩”？经济学大神耶伦为什么要“颠覆”经济学原理？",
             "file_path": "videodl_tmp_outputs/XiguaVideoClient/中国“产能过剩”？经济学大神耶伦为什么要“颠覆”经济学原理？.mp4",
             "ext": "mp4",
@@ -3472,7 +3451,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p26-sign.bdxiguaimg.com/tos-cn-i-tjoges91tu/16348c85832dd46fd063d3dbb3e44078~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1128&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=101_large_image_list&imageType=video1609&isImmersiveScene=0&is_ios=1&is_stream=0&lk3s=9d3f5bff&logId=20260624054444652CEB154CDDC819DC6B&requestFrom=101&version_code=0&x-expires=1813787084&x-signature=RngQIeYAs%2BDBLezlveivs8PhohY%3D"
+            "cover_url": "https://p3-sign.bdxiguaimg.com/tos-cn-i-tjoges91tu/16348c85832dd46fd063d3dbb3e44078~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1128&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=101_large_image_list&imageType=video1609&isImmersiveScene=0&is_ios=1&is_stream=0&lk3s=9d3f5bff&logId=202606260544143B3DC701195644ACCE56&requestFrom=101&version_code=0&x-expires=1813959854&x-signature=VHju4S8gnWCAPx69SqGgJmVpisU%3D"
           }
         },
         {
@@ -3482,7 +3461,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "XiguaVideoClient",
-            "download_url": "https://v11-colds.douyinvod.com/3646944d87c63026ea711d0005e0116f/6a3baad2/video/tos/cn/tos-cn-ve-0026/owbmukpkBbnG1jYD0ZeK9I4yAKRwEgBIqmSCeA/?a=1128&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=1253&bt=1253&cs=0&ds=3&ft=eOn2blNN6VQ9wqhZfB.1CyBO5UQG4L3K6~uRGmrJEOF&mime_type=video_mp4&qs=13&rc=MzlwZjc6ZmlkcjMzNGQzM0BpMzlwZjc6ZmlkcjMzNGQzM0AyNjNjcjRfMmFgLS1kLi9zYSMyNjNjcjRfMmFgLS1kLi9zcw%3D%3D&btag=80090e00078001&cdn_type=2&cquery=100g&dy_q=1782251097&feature_id=fa11f550cd70094bc4921e3078f61f4c&l=202606240544574442D867A5C8D71A9468&pwid=282&req_cdn_type=r",
+            "download_url": "https://v3-dy-o.zjcdn.com/ade89b0ecdb077582e39fe7b104b1a1d/6a3e4db9/video/tos/cn/tos-cn-ve-0026/owbmukpkBbnG1jYD0ZeK9I4yAKRwEgBIqmSCeA/?a=1128&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&br=1253&bt=1253&cs=0&ds=3&ft=y4f8Kq80nCUY55tlcAwiJ76RQjKJg7pJcYSTP7--1SLgJMdEJLi8Zgo&mime_type=video_mp4&qs=13&rc=MzlwZjc6ZmlkcjMzNGQzM0BpMzlwZjc6ZmlkcjMzNGQzM0AyNjNjcjRfMmFgLS1kLi9zYSMyNjNjcjRfMmFgLS1kLi9zcw%3D%3D&btag=80090e00078001&cc=1f&cdn_type=2&cquery=100g&dy_q=1782423872&feature_id=fa11f550cd70094bc4921e3078f61f4c&l=20260626054432DB6376E5D5AC084ED655&pwid=1&req_cdn_type=r",
             "title": "神兵小将(主题片尾曲+变身合集)[画质60帧修复版]",
             "file_path": "videodl_tmp_outputs/XiguaVideoClient/神兵小将(主题片尾曲+变身合集)[画质60帧修复版].mp4",
             "ext": "mp4",
@@ -3504,7 +3483,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p26-sign.bdxiguaimg.com/tos-cn-i-0026/oYb8AqbnCEM7pVmBdoULAGeqaCyAXDMAeAAmIg~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1128&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=101_large_image_list&imageType=video1609&isImmersiveScene=0&is_ios=1&is_stream=0&lk3s=9d3f5bff&logId=202606240544574442D867A5C8D71A9468&requestFrom=101&version_code=0&x-expires=1813787097&x-signature=DBCgcKkYgrjXckdjULCkw57deVc%3D"
+            "cover_url": "https://p3-sign.bdxiguaimg.com/tos-cn-i-0026/oYb8AqbnCEM7pVmBdoULAGeqaCyAXDMAeAAmIg~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1128&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=101_large_image_list&imageType=video1609&isImmersiveScene=0&is_ios=1&is_stream=0&lk3s=9d3f5bff&logId=20260626054432DB6376E5D5AC084ED655&requestFrom=101&version_code=0&x-expires=1813959872&x-signature=AwdTZAvkNg%2F1%2FHqhDFqOCO3a3gU%3D"
           }
         },
         {
@@ -3514,7 +3493,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "XiguaVideoClient",
-            "download_url": "https://v3-aweme-play-xigua.ixigua.com/319343c2e2a5ac758fa050b2271e2a1a/6a3ba7fd/video/tos/cn/tos-cn-ve-4c001-alinc2/df5fedf806804a04b598d065f156a104/?a=1128&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&cv=1&br=1486&bt=1486&cs=0&ds=3&ft=lI3kLgqjjM9wUxZHosq~NO8ySYH3dgKIEM5duLH9eFS4&mime_type=video_mp4&qs=0&rc=M2c4O2k4aTVpaTc2MzhmaEBpM2hkNDg6ZmhoZDMzNDczM0AyMi5fNWBhNi0xMGNfNGEzYSM0a2NgcjRnbnJgLS1kLTBzcw%3D%3D&btag=80050e000a8000&cdn_type=2&cquery=100g&dy_q=1782251110&l=2026062405451017921C6E872341122F99&pwid=282&req_cdn_type=r",
+            "download_url": "https://v3-aweme-play-xigua.ixigua.com/3984869a6d0ae69fe797b1d0b52cf1b0/6a3e4ae7/video/tos/cn/tos-cn-ve-4c001-alinc2/df5fedf806804a04b598d065f156a104/?a=1128&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&cd=0%7C0%7C0%7C0&cv=1&br=1486&bt=1486&cs=0&ds=3&ft=lI3kLgqjjM9wUxZHosvEkP8ySYzDL9KIEM5duL29eFS4&mime_type=video_mp4&qs=0&rc=M2c4O2k4aTVpaTc2MzhmaEBpM2hkNDg6ZmhoZDMzNDczM0AyMi5fNWBhNi0xMGNfNGEzYSM0a2NgcjRnbnJgLS1kLTBzcw%3D%3D&btag=80050e000a8000&cdn_type=2&cquery=100g&dy_q=1782423888&l=2026062605444855951B9C803EB4AF869D&pwid=282&req_cdn_type=r",
             "title": "《紫荆花盛开》MV上线！一起祝福香港如紫荆花般绽放",
             "file_path": "videodl_tmp_outputs/XiguaVideoClient/《紫荆花盛开》MV上线！一起祝福香港如紫荆花般绽放.mp4",
             "ext": "mp4",
@@ -3536,7 +3515,7 @@
             "audio_file_path": "",
             "default_download_headers": null,
             "default_download_cookies": null,
-            "cover_url": "https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/7c1754554930455daaf108abde6d165a~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1128&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=101_large_image_list&imageType=video1609&isImmersiveScene=0&is_ios=1&is_stream=0&lk3s=9d3f5bff&logId=2026062405451017921C6E872341122F99&requestFrom=101&version_code=0&x-expires=1813787110&x-signature=W8KlOSueCs8skX2WYhARo7sPxHw%3D"
+            "cover_url": "https://p26-sign.bdxiguaimg.com/tos-cn-i-0004/7c1754554930455daaf108abde6d165a~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1128&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=101_large_image_list&imageType=video1609&isImmersiveScene=0&is_ios=1&is_stream=0&lk3s=9d3f5bff&logId=2026062605444855951B9C803EB4AF869D&requestFrom=101&version_code=0&x-expires=1813959888&x-signature=Bxhym5K3l6bYRoie%2FpNuswgR1ao%3D"
           }
         }
       ]
@@ -3698,7 +3677,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "CCtalkVideoClient",
-            "download_url": "https://record-manual.cctalk.com/e46af241bae277672de90c1b74f71f50.mp4?auth_key=1782267341-aae87b9b54954b4e96b395d27e86d171-0-742f968b08c9e9c2b52e092d70c0de08",
+            "download_url": "https://record-manual.cctalk.com/e46af241bae277672de90c1b74f71f50.mp4?auth_key=1782440115-8dfd9b8d01514d13a87c307e4551a7ff-0-98ddc4f59af0a6621cb5b30f4413fa98",
             "title": "【千君老师之前课程免费试听】时政月月谈（23年12月）",
             "file_path": "videodl_tmp_outputs/CCtalkVideoClient/【千君老师之前课程免费试听】时政月月谈（23年12月）.mp4",
             "ext": "mp4",
@@ -4101,7 +4080,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "SohuVideoClient",
-            "download_url": "http://video5.vod.tv.itc.cn/NsSEFUoyGE1VtAmdMFxUVK5JNHlDA5LGWH0gUvhgyDjDgUVqLwZ82kiU41xPsF21XVBSuOVttAIf.mp4?sig=C-xuAYpSfT_r7K0I9kQAPrNIiqn6aMtEZJkxiA..&nid=2821",
+            "download_url": "http://video5.vod.tv.itc.cn/NsSEFUoyGE1VtAmdMFxUVK5JNHlDA5LGWH0gUvhgyDjDgUVqLwZ82kiU41xPsF21XVBSuOVttAIf.mp4?sig=IEj2wMonMmIm9jGaPfbyufNu5C4Oxg6kyPdHqg..&nid=2821",
             "title": "呼吸也会出卖你！“空气指纹”如何追踪万物？",
             "file_path": "videodl_tmp_outputs/SohuVideoClient/呼吸也会出卖你！“空气指纹”如何追踪万物？.mp4",
             "ext": "mp4",
@@ -4130,7 +4109,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "SohuVideoClient",
-            "download_url": "http://video5.vod.tv.itc.cn/NpPDumxtO8SIbtMcgfL7xQaAkUGyGAzJII4ExIXON6JWQrIImoHr23uYLLH3Brc4ZzsFSyu7sTQXP.mp4?sig=2j1OG-DFEsnwbzcST0JfV-s8hEzFRM4PqUuKSQ..&nid=2821",
+            "download_url": "http://video5.vod.tv.itc.cn/NpPDumxtO8SIbtMcgfL7xQaAkUGyGAzJII4ExIXON6JWQrIImoHr23uYLLH3Brc4ZzsFSyu7sTQXP.mp4?sig=1aSoCo-5g8B8VL7ynAoGIYJCEXos1bWUPtpDbQ..&nid=2821",
             "title": "警方通报重型吊车碰撞多车致13伤：车辆制动系统失灵，其中3人重伤暂无生命危险",
             "file_path": "videodl_tmp_outputs/SohuVideoClient/警方通报重型吊车碰撞多车致13伤：车辆制动系统失灵，其中3人重伤暂无生命危险.mp4",
             "ext": "mp4",
@@ -4159,7 +4138,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "SohuVideoClient",
-            "download_url": "http://data.vod.itc.cn/?k=XZhuOp33OUoWXZoIyM0Gvm12ZM1GvmfiZMx20L1j5BoBuTWcgMAdypES0MocWhvOwmN7ZD6SotKcWhoV0F22NVfSqm8VRDcsWJWHWFdHNBbBqVoeoEb3Pmf3gh1sTKXCWBegfhXUyYk&a=j9lvz9B3tfdWjSCGhRYRzSwW4faUsmCdhWglcS38SvXiH3lU4wgxSahlJZl4t3YqtU5Y9ZFBJkPiSZ55cK",
+            "download_url": "http://data.vod.itc.cn/?k=XZhuOp33OUoWXZoIyM0Gvm12ZM1GvmfiZMx20L1j5BoBuTWcgMAdypES0MocWhvOwmN7ZD6SotKcWhoV0F22NVfSqm8VRDcsWJWHWFdHNBbBqVoeoEb3Pmf3gh1sTKXCWBegfhXUyYk&a=j9lvz9B3tfdWjSCGhRYRzSwW4faUsmCdhWglcS3GJZqkckDS4lJvtvIsy81MT8PAeSxCq4n4UqhomqaXRw",
             "title": "尼玛真惨啊!被贱男看光了!!!",
             "file_path": "videodl_tmp_outputs/SohuVideoClient/尼玛真惨啊!被贱男看光了!!!.mp4",
             "ext": "mp4",
@@ -4188,7 +4167,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "SohuVideoClient",
-            "download_url": "http://data.vod.itc.cn/?k=XZhuOp33OUoWXZoIyM0Gvm12ZM1GvmfiZMx20L1j5BoBuTWcgMAdypES0MocWhv4vmN7ZD6SotKcWhoV0F22NVfSqm8VRDcsWObHWJbX5Vv4gVxXWTKIfsBX9GKORaLcWjNopoATW3dqr&a=j9lvz9B3tfdWjSCGhRYRzSwW4faUsmCdhWglcS3NOW5h4wwBta5ftajMaRDTkSYeSLsGtwNgqHhm4lFoTY",
+            "download_url": "http://data.vod.itc.cn/?k=XZhuOp33OUoWXZoIyM0Gvm12ZM1GvmfiZMx20L1j5BoBuTWcgMAdypES0MocWhv4vmN7ZD6SotKcWhoV0F22NVfSqm8VRDcsWObHWJbX5Vv4gVxXWTKIfsBX9GKORaLcWjNopoATW3dqr&a=j9lvz9B3tfdWjSCGhRYRzSwW4faUsmCdhWglcS3kjvD2jl5Sa5I4qVkGgtf3PAA20TsGNBdGT8fLPO6U0K",
             "title": "Hear You Me (Virgin FreeFest 2010)现场版 - Jimmy Eat World",
             "file_path": "videodl_tmp_outputs/SohuVideoClient/Hear You Me (Virgin FreeFest 2010)现场版 - Jimmy Eat World.mp4",
             "ext": "mp4",
@@ -4513,7 +4492,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "KakaoVideoClient",
-            "download_url": "https://kdnv-kt-orisa-edge.play.kakao.com/s-klimt/vod/v4eeefwPzwww1OHvUzPGvzw/mp4/mp4_720P_2M_T1/clip.mp4?orisa-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWQiOiJ2NGVlZWZ3UHp3d3cxT0h2VXpQR3Z6dyIsInRpZCI6InhheGdlOTRwazQxbGVmZmp3cXp0Iiwic2lkIjoia2xpbXQiLCJweC1icHMiOjU0OTM4NjEsInB4LWJ1ZmFoZWFkIjozMiwicHgtcGF0aCI6Ii9zLWtsaW10L3ZvZC92NGVlZWZ3UHp3d3cxT0h2VXpQR3Z6dy9tcDQvbXA0XzcyMFBfMk1fVDEvY2xpcC5tcDQiLCJleHAiOjE3ODIyNjI1MTMsImlhdCI6MTc4MjI1MTcxM30.w6OsAS92yeqstTu3Xp3DPXyM_uZj4rXRtP4AdMcafBE",
+            "download_url": "https://kdnv-skb-orisa-edge.play.kakao.com/s-klimt/vod/v4eeefwPzwww1OHvUzPGvzw/mp4/mp4_720P_2M_T1/clip.mp4?orisa-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWQiOiJ2NGVlZWZ3UHp3d3cxT0h2VXpQR3Z6dyIsInRpZCI6InQ0NzZ1b2dqaXBrYXkwaDNnMWI5Iiwic2lkIjoia2xpbXQiLCJweC1icHMiOjU0OTM4NjEsInB4LWJ1ZmFoZWFkIjozMiwicHgtcGF0aCI6Ii9zLWtsaW10L3ZvZC92NGVlZWZ3UHp3d3cxT0h2VXpQR3Z6dy9tcDQvbXA0XzcyMFBfMk1fVDEvY2xpcC5tcDQiLCJleHAiOjE3ODI0MzU0MjQsImlhdCI6MTc4MjQyNDYyNH0.1xO4Y5n-_6H33T43jVQMoexknCvRnJF02MF6aYfCqy4",
             "title": "乃木坂46 バナナマン 「3期生紹介コーナーが始動！顔高低差GPも！」 『乃木坂工事中』",
             "file_path": "videodl_tmp_outputs/KakaoVideoClient/乃木坂46 バナナマン 「3期生紹介コーナーが始動！顔高低差GPも！」 『乃木坂工事中』.mp4",
             "ext": "mp4",
@@ -4545,7 +4524,7 @@
           "err_msg": "",
           "parse_result": {
             "source": "KakaoVideoClient",
-            "download_url": "https://kdnv-kt-orisa-edge.play.kakao.com/s-klimt/vod/v3f4eiJpVASpAaTiaRSSlFt/mp4/mp4_720P_2M_T1/clip.mp4?orisa-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWQiOiJ2M2Y0ZWlKcFZBU3BBYVRpYVJTU2xGdCIsInRpZCI6InJkaWZjajkzdG1wcmRteDFzMm41Iiwic2lkIjoia2xpbXQiLCJweC1icHMiOjU0MDUzNjYsInB4LWJ1ZmFoZWFkIjozMywicHgtcGF0aCI6Ii9zLWtsaW10L3ZvZC92M2Y0ZWlKcFZBU3BBYVRpYVJTU2xGdC9tcDQvbXA0XzcyMFBfMk1fVDEvY2xpcC5tcDQiLCJleHAiOjE3ODIyNjI1MjcsImlhdCI6MTc4MjI1MTcyN30.9ASaWM9JANJ5xMtqxA6jjT5ExKwj1T_iclpxLPK26Io",
+            "download_url": "https://kdnv-kt-orisa-edge.play.kakao.com/s-klimt/vod/v3f4eiJpVASpAaTiaRSSlFt/mp4/mp4_720P_2M_T1/clip.mp4?orisa-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWQiOiJ2M2Y0ZWlKcFZBU3BBYVRpYVJTU2xGdCIsInRpZCI6InNvM2lvbDNzcnBjaXJ1am9ramNxIiwic2lkIjoia2xpbXQiLCJweC1icHMiOjU0MDUzNjYsInB4LWJ1ZmFoZWFkIjozMywicHgtcGF0aCI6Ii9zLWtsaW10L3ZvZC92M2Y0ZWlKcFZBU3BBYVRpYVJTU2xGdC9tcDQvbXA0XzcyMFBfMk1fVDEvY2xpcC5tcDQiLCJleHAiOjE3ODI0MzU0MzcsImlhdCI6MTc4MjQyNDYzN30.-5_rAd0pdctf0f34TRpYtoZLLgc2z-90DV-hi2GrtQ0",
             "title": "170227 KEYAROOM2 ep8",
             "file_path": "videodl_tmp_outputs/KakaoVideoClient/170227 KEYAROOM2 ep8.mp4",
             "ext": "mp4",
@@ -4575,25 +4554,25 @@
   ],
   "random_samples": [
     {
-      "name": "TedVideoClient",
-      "test_url": "https://www.ted.com/talks/alanna_shaikh_why_covid_19_is_hitting_us_now_and_how_to_prepare_for_the_next_outbreak",
+      "name": "WeiboVideoClient",
+      "test_url": "https://m.weibo.cn/detail/5234820306442377",
       "ok": true,
       "err_msg": "",
       "parse_result": {
-        "source": "TedVideoClient",
-        "download_url": "https://hls.ted.com/project_masters/2419/manifest.m3u8?intro_master_id=9294&preview",
-        "title": "Why COVID-19 is hitting us now -- and how to prepare for the next outbreak",
-        "file_path": "videodl_tmp_outputs/TedVideoClient/Why COVID-19 is hitting us now -- and how to prepare for the next outbreak.m3u8",
-        "ext": "m3u8",
+        "source": "WeiboVideoClient",
+        "download_url": "https://f.video.weibocdn.com/o0/0gRZKOiIlx08t6IddeIE010412007hGS0E010.mp4?label=mp4_720p&template=720x1280.24.0&ori=0&ps=1BThihd3VLAY5R&Expires=1782426682&ssig=4yWG8DyGSA&KID=unistore,video",
+        "title": "中国蓝新闻的微博视频",
+        "file_path": "videodl_tmp_outputs/WeiboVideoClient/中国蓝新闻的微博视频.mp4",
+        "ext": "mp4",
         "err_msg": "",
         "download_with_ffmpeg": false,
         "download_with_aria2c": false,
         "aria2c_settings": {},
         "enable_nm3u8dlre": null,
         "nm3u8dlre_settings": {},
-        "identifier": "alanna_shaikh_why_covid_19_is_hitting_us_now_and_how_to_prepare_for_the_next_outbreak",
+        "identifier": "5234820306442377",
         "guess_video_ext_result": {
-          "ext": "m3u8",
+          "ext": "mp4",
           "sniffer": "urllib.parse",
           "ok": true
         },
@@ -4603,20 +4582,20 @@
         "audio_file_path": "",
         "default_download_headers": null,
         "default_download_cookies": null,
-        "cover_url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/afa933af-1b57-4607-94ad-d712379253d0/AlannaShaikh_2020X-embed.jpg"
+        "cover_url": "https://wx1.sinaimg.cn/orj480/8842ff52gy1i7hw21a4fcj20u0140tk9.jpg"
       },
       "local_video": "daily_test_results/videos/sample_0.mp4"
     },
     {
-      "name": "PipixVideoClient",
-      "test_url": "https://h5.pipix.com/item/6863294377570081027?app_id=1319&app=super&timestamp=1598011674&user_id=62108092335&carrier_region=cn&region=cn&language=zh&utm_source=weixin",
+      "name": "BilibiliVideoClient",
+      "test_url": "https://www.bilibili.com/video/BV1KZgHzJEs6/?spm_id_from=333.337.search-card.all.click",
       "ok": true,
       "err_msg": "",
       "parse_result": {
-        "source": "PipixVideoClient",
-        "download_url": "https://v3-dy-o.zjcdn.com/39af934f02faceba2115617bc9248293/6a3b08b7/video/tos/hxsy/tos-hxsy-ve-0076/220e0ed9b15778f4f6dbf112cb6609d229711669bc0b00003f9fa0b16b22/?a=1319&ch=0&cr=0&dr=6&cd=0%7C0%7C0%7C0&cv=1&br=676&bt=676&cs=0&ds=6&ft=tepik8hPooVD12N13M9n-Ux.LFTZyF_O51Y&mime_type=video_mp4&qs=0&rc=ZTQ8PGg8Zzg8Z2Q1NzpmNUBpamx4czh5bXFvdjMzOWYzM0AxMGBgNDBiX2ExXy4wYzZeYSNzaC9zNmllMHNfLS0xMTBzcw%3D%3D&btag=80000e00008000&cc=1f&dy_q=1782250141&l=20260624052901266402377A0F23AFC5C0&req_cdn_type=",
-        "title": "PipixVideoClient_null_2026-06-23-21-29-00",
-        "file_path": "videodl_tmp_outputs/PipixVideoClient/PipixVideoClient_null_2026-06-23-21-29-00.mp4",
+        "source": "BilibiliVideoClient",
+        "download_url": "https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/49/79/31205297949/31205297949-1-192.mp4?e=ig8euxZM2rNcNbR1nWdVhwdlhWRHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&trid=3bacecb4654f44d08e5f6c73c9effe5h&mid=0&uipk=5&oi=1256951313&og=hw&nbs=1&deadline=1782429645&gen=playurlv3&os=cosovbv&upsig=2e583ec415c31a67c51235ec4c470b12&uparams=e,platform,trid,mid,uipk,oi,og,nbs,deadline,gen,os&bvc=vod&nettype=0&bw=952718&lrs=0&agrr=1&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1",
+        "title": "美女合集4",
+        "file_path": "videodl_tmp_outputs/BilibiliVideoClient/美女合集4.mp4",
         "ext": "mp4",
         "err_msg": "",
         "download_with_ffmpeg": false,
@@ -4624,40 +4603,7 @@
         "aria2c_settings": {},
         "enable_nm3u8dlre": null,
         "nm3u8dlre_settings": {},
-        "identifier": "6863294377570081027",
-        "guess_video_ext_result": {
-          "ext": "mp4",
-          "sniffer": "requests.head",
-          "ok": true
-        },
-        "audio_download_url": "",
-        "guess_audio_ext_result": {},
-        "audio_ext": "m4a",
-        "audio_file_path": "",
-        "default_download_headers": null,
-        "default_download_cookies": null,
-        "cover_url": "https://p3-ppx-sign.byteimg.com/mosaic-legacy/33cbb000b8e8b645c3aba~tplv-f3gpralwbh-noop-v4:540:960:q60.webp?lk3s=1e780327&x-expires=1813786141&x-signature=V7erwjEnxL6jTDCzHeJes8YdNQE%3D"
-      },
-      "local_video": "daily_test_results/videos/sample_1.mp4"
-    },
-    {
-      "name": "HuyaVideoClient",
-      "test_url": "https://www.huya.com/video/play/1084162990.html",
-      "ok": true,
-      "err_msg": "",
-      "parse_result": {
-        "source": "HuyaVideoClient",
-        "download_url": "http://hs-vod.cdn.huya.com/leaf/1048585/1199658336020/97137427/69393152_ca253841c56925dca6e0a7afec7cd5c6_264_1080_6_ai.mp4?bitrate=3753&client=106&definition=yuanhua&pid=1199608420906&scene=vod&vid=1084162990&hyvid=1084162990&hyauid=1199608420906&hyroomid=0&hyratio=3753&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfMTA4NDE2Mjk5MA%3D%3D&",
-        "title": "【乔鹿鹿baby】后来，我活成了你的样子",
-        "file_path": "videodl_tmp_outputs/HuyaVideoClient/【乔鹿鹿baby】后来，我活成了你的样子.mp4",
-        "ext": "mp4",
-        "err_msg": "",
-        "download_with_ffmpeg": false,
-        "download_with_aria2c": false,
-        "aria2c_settings": {},
-        "enable_nm3u8dlre": null,
-        "nm3u8dlre_settings": {},
-        "identifier": "1084162990",
+        "identifier": "1KZgHzJEs6-31205297949",
         "guess_video_ext_result": {
           "ext": "mp4",
           "sniffer": "urllib.parse",
@@ -4669,7 +4615,40 @@
         "audio_file_path": "",
         "default_download_headers": null,
         "default_download_cookies": null,
-        "cover_url": "https://v-huya-img2.msstatic.com/screenshot/1762747693888/1084162990/99.jpg?x-oss-process=image/resize,limit_0,m_lfit,h_460/sharpen,80/format,jpg/interlace,1/quality,q_80"
+        "cover_url": "http://i2.hdslb.com/bfs/storyff/n250722sa3tax5o401cuuwe089uo579t_firsti.jpg"
+      },
+      "local_video": "daily_test_results/videos/sample_1.mp4"
+    },
+    {
+      "name": "XuexiCNVideoClient",
+      "test_url": "https://www.xuexi.cn/lgpage/detail/index.html?id=6898516301450608472",
+      "ok": true,
+      "err_msg": "",
+      "parse_result": {
+        "source": "XuexiCNVideoClient",
+        "download_url": "https://boot-video.xuexi.cn/video/1004/p/9150b0894179067ff942a8d4d93bc044-e8a2fe6392964e08af969c9c23e95eb3-3.mp4",
+        "title": "ep1-你好，月球-中国人探月的故事",
+        "file_path": "videodl_tmp_outputs/XuexiCNVideoClient/ep1-你好，月球-中国人探月的故事.mp4",
+        "ext": "mp4",
+        "err_msg": "",
+        "download_with_ffmpeg": false,
+        "download_with_aria2c": false,
+        "aria2c_settings": {},
+        "enable_nm3u8dlre": null,
+        "nm3u8dlre_settings": {},
+        "identifier": "6898516301450608472-1",
+        "guess_video_ext_result": {
+          "ext": "mp4",
+          "sniffer": "urllib.parse",
+          "ok": true
+        },
+        "audio_download_url": "",
+        "guess_audio_ext_result": {},
+        "audio_ext": "m4a",
+        "audio_file_path": "",
+        "default_download_headers": null,
+        "default_download_cookies": null,
+        "cover_url": "https://boot-img.xuexi.cn/image/1005/process/6a4014ca039f48c5a1d09f03e09e7b35.jpg"
       },
       "local_video": "daily_test_results/videos/sample_2.mp4"
     }
